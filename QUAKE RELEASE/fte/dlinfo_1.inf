@@ -1,0 +1,5 @@
+version 1
+"QRP [24bit faithful textures]" "http://facelift.quakedev.com/download/qrp-textures-549files-7-22-06.zip" "qrp-textures-549files-7-22-06.pk3" 0 "id1"
+"QRP [24bit faithful model skins]" "http://facelift.quakedev.com/download/SKINSbmodels-48files-4-23-05.zip" "QRP-SkinsBmodels-4-23-05.pk3" 0 "id1"
+"QRP MonkeyRat's Models" "http://facelift.quakedev.com/download/MonkeyRat-models-1-7-06.zip" "MonkeyRat-models-1-7-06.pk3" 0 "id1"
+sublist "http://facelift.quakedev.com/bonuses.txt" "Bonuses"

@@ -1,0 +1,1315 @@
+{
+"classname" "worldspawn"
+"message" "é     ëƒıÓÂê      é\né ¬˘∫ ”Ì·ÛË ÕÔıÙË Ö\nCustom entities by Phrost¬˘ÙÂ\n"
+"spawnflags" "128"
+"wad" "quake101.wad"
+}
+{
+"classname" "info_tfgoal"
+"goal_activation" "2"
+"target" "UGBoulderRed"
+"origin" "-728 1432 -360"
+}
+{
+"classname" "info_tfgoal"
+"origin" "-1800 344 -360"
+"target" "UGBoulderBlue"
+"goal_activation" "2"
+}
+{
+"classname" "info_tfgoal"
+"netname_broadcast" " »as ¬lown ¡ »ole …nto Blues “amp “oom!\n"
+"targetname" "bluedethole2"
+"killtarget " "bluedethole2"
+"goal_activation" "2"
+"target" "outsidedetblue"
+"origin" "-2992 -144 48"
+}
+{
+"classname" "info_tfgoal"
+"origin" "-240 2608 48"
+"target" "outsidedetred"
+"goal_activation" "2"
+"killtarget " "reddethole2"
+"targetname" "reddethole2"
+"netname_broadcast" " »as ¬lown ¡ »ole …nto “Â‰Û “amp“oom!\n"
+}
+{
+"classname" "info_player_teamspawn"
+"message" "Destroy The Fools!"
+"team_no" "2"
+"origin" "1032 2536 328"
+"angle" "180"
+}
+{
+"classname" "info_player_teamspawn"
+"origin" "1032 2456 328"
+"team_no" "2"
+"message" "Destroy The Fools!"
+"angle" "180"
+}
+{
+"classname" "info_player_teamspawn"
+"message" "Destroy The Fools!"
+"team_no" "2"
+"origin" "1032 1128 328"
+"angle" "180"
+}
+{
+"classname" "info_player_teamspawn"
+"origin" "1032 1048 328"
+"team_no" "2"
+"message" "Destroy The Fools!"
+"angle" "180"
+}
+{
+"classname" "info_player_teamspawn"
+"message" "Destroy The Fools!"
+"team_no" "1"
+"origin" "-1432 -1416 328"
+"angle" "90"
+}
+{
+"classname" "info_player_teamspawn"
+"origin" "-1512 -1416 328"
+"team_no" "1"
+"message" "Destroy The Fools!"
+"angle" "90"
+}
+{
+"classname" "info_player_teamspawn"
+"message" "Destroy The Fools!"
+"team_no" "1"
+"origin" "-2840 -1416 328"
+"angle" "90"
+}
+{
+"classname" "info_player_teamspawn"
+"origin" "-2920 -1416 328"
+"team_no" "1"
+"message" "Destroy The Fools!"
+"angle" "90"
+}
+{
+"classname" "trigger_multiple"
+"team_no" "2"
+"target" "RedTeamDoor2"
+"model" "*1"
+}
+{
+"classname" "item_tfgoal"
+"origin" "-2176 -3264 176"
+"mdl" "progs/tf_flag.mdl"
+"team_no" "2"
+"skin" "1"
+"noise" "shambler/ssight.wav"
+"items" "131072"
+"goal_activation" "565"
+"pausetime" "30"
+"netname" "blueflag"
+"goal_no" "1"
+"broadcast" "ÖBlues ∆lag »as ¬een ‘aken!Ö\n"
+"message" "ÖBlues ∆lag »as ¬een ‘aken!Ö\n"
+"noise3" "Ö¬ÏıÂÛ ∆lag Ëas “eturnedÖ\n"
+"noise4" "Ö¬ÏıÂÛ ∆lag Ëas “eturnedÖ\n"
+"team_drop" "Ö¬ÏıÂÛ ∆lag Ëas ¬een ƒropped!Ö\n"
+"non_team_drop" "Ö¬ÏıÂÛ ∆lag Ëas ¬een ƒropped!Ö\n"
+}
+{
+"classname" "info_tfgoal"
+"origin" "2320 1800 176"
+"goal_activation" "1"
+"goal_effects" "2"
+"team_no" "2"
+"count" "10"
+"netname" "redcappoint"
+"items_allowed" "1"
+"axhitme" "1"
+"frags" "10"
+"noise" "items/cap2.wav"
+"message" "Ö¬ÏıÂÛ ∆lag Ëas ¬een √aptured!Ö\n"
+"broadcast" "Ö¬ÏıÂÛ ∆lag Ëas ¬een √aptured!Ö\n"
+}
+{
+"classname" "info_tfgoal"
+"noise" "items/cap2.wav"
+"frags" "10"
+"axhitme" "2"
+"items_allowed" "2"
+"netname" "bluecappoint"
+"count" "10"
+"team_no" "1"
+"goal_effects" "2"
+"goal_activation" "1"
+"origin" "-2184 -2704 184"
+"message" "Ö“Â‰Û ∆lag Ëas ¬een √aptured!Ö\n"
+"broadcast" "Ö“Â‰Û ∆lag Ëas ¬een √aptured!Ö\n"
+}
+{
+"classname" "item_tfgoal"
+"goal_no" "2"
+"netname" "redflag"
+"pausetime" "30"
+"goal_activation" "565"
+"items" "131072"
+"noise" "shambler/ssight.wav"
+"skin" "2"
+"team_no" "1"
+"mdl" "progs/tf_flag.mdl"
+"origin" "2880 1792 160"
+"team_drop" "Ö“Â‰Û ∆lag Ëas ¬een ƒropped!Ö\n"
+"non_team_drop" "Ö“Â‰Û ∆lag Ëas ¬een ƒropped!Ö\n"
+"noise3" "Ö“Â‰Û ∆lag Ëas “eturned\n"
+"noise4" "Ö“Â‰Û ∆lag Ëas “eturned\n"
+"broadcast" "Ö“Â‰Û ∆lag »as ¬een ‘aken!!é\n"
+"message" "Ö“Â‰Û ∆lag »as ¬een ‘aken!!é\n"
+}
+{
+"classname" "light"
+"origin" "1336 2168 264"
+"light" "450"
+}
+{
+"classname" "light"
+"origin" "992 1792 -392"
+"light" "350"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "992 1376 -392"
+}
+{
+"classname" "light"
+"origin" "528 1376 -392"
+"light" "250"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "160 1376 -392"
+}
+{
+"classname" "light"
+"origin" "-176 1360 -392"
+"light" "250"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-888 1928 -376"
+}
+{
+"classname" "light"
+"origin" "-1752 1448 712"
+"light" "1500"
+}
+{
+"classname" "light"
+"light" "1000"
+"origin" "-1768 2136 712"
+}
+{
+"classname" "light"
+"origin" "-280 2152 712"
+"light" "1000"
+}
+{
+"classname" "light"
+"light" "1000"
+"origin" "-264 1464 712"
+}
+{
+"classname" "light"
+"wait" ".4"
+"origin" "-8 2760 104"
+"light" "100"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "264 2680 168"
+"wait" ".4"
+}
+{
+"classname" "light"
+"wait" ".4"
+"origin" "440 2488 232"
+"light" "100"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "760 2520 360"
+"wait" ".4"
+}
+{
+"classname" "light"
+"wait" ".4"
+"origin" "776 2200 440"
+"light" "100"
+}
+{
+"classname" "light"
+"wait" ".4"
+"origin" "744 1544 440"
+"light" "130"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "744 2040 440"
+"wait" ".4"
+}
+{
+"classname" "light"
+"wait" ".4"
+"origin" "1240 2040 440"
+"light" "130"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "1240 1544 440"
+"wait" ".4"
+}
+{
+"classname" "light"
+"wait" ".4"
+"origin" "1368 1336 440"
+"light" "100"
+}
+{
+"classname" "light"
+"wait" ".4"
+"light" "100"
+"origin" "1816 1320 312"
+}
+{
+"classname" "light"
+"wait" ".4"
+"origin" "2264 1320 440"
+"light" "100"
+}
+{
+"classname" "light"
+"wait" ".4"
+"light" "100"
+"origin" "2600 1320 440"
+}
+{
+"classname" "light"
+"wait" ".4"
+"origin" "2936 1304 440"
+"light" "100"
+}
+{
+"classname" "light"
+"wait" ".4"
+"light" "130"
+"origin" "2888 1640 456"
+}
+{
+"classname" "light"
+"light" "450"
+"origin" "616 2168 264"
+}
+{
+"classname" "light"
+"light" "450"
+"origin" "1336 1448 264"
+}
+{
+"classname" "light"
+"origin" "936 1720 216"
+"light" "400"
+}
+{
+"classname" "light"
+"origin" "2312 1800 200"
+"light" "200"
+}
+{
+"classname" "info_tfgoal"
+"origin" "2880 1744 416"
+"target" "flagroomdetred"
+"goal_activation" "2"
+"killtarget " "reddethole"
+"targetname" "reddethole"
+"netname_broadcast" " »as ¬lown ¡ »ole …nto “eds ∆lag “oom!\n"
+}
+{
+"classname" "light"
+"light" "300"
+"origin" "2792 1784 184"
+}
+{
+"classname" "light"
+"origin" "2968 1784 184"
+"light" "300"
+}
+{
+"classname" "light"
+"light" "300"
+"origin" "2872 1704 184"
+}
+{
+"classname" "light"
+"origin" "2872 1880 184"
+"light" "300"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "2296 1608 200"
+}
+{
+"classname" "light"
+"origin" "2296 1992 200"
+"light" "250"
+}
+{
+"classname" "light"
+"light" "220"
+"origin" "1864 1800 232"
+}
+{
+"classname" "light"
+"light" "220"
+"origin" "1960 1784 184"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "1656 1736 248"
+}
+{
+"classname" "light"
+"light" "250"
+"spawnflags" "1024"
+"origin" "1656 1848 248"
+}
+{
+"classname" "light"
+"origin" "1256 2472 248"
+"light" "300"
+}
+{
+"classname" "light"
+"light" "300"
+"origin" "1016 2472 248"
+}
+{
+"classname" "light"
+"origin" "1016 1080 248"
+"light" "300"
+}
+{
+"classname" "light"
+"light" "300"
+"origin" "1256 1080 248"
+}
+{
+"classname" "light"
+"light" "500"
+"origin" "648 1448 248"
+}
+{
+"classname" "light"
+"origin" "1096 1720 216"
+"light" "500"
+}
+{
+"classname" "light"
+"light" "500"
+"origin" "1096 1864 216"
+}
+{
+"classname" "light"
+"origin" "936 1864 216"
+"light" "500"
+}
+{
+"classname" "light"
+"origin" "-1480 1784 -376"
+"light" "250"
+}
+{
+"classname" "light"
+"origin" "-552 1944 -376"
+"light" "250"
+}
+{
+"classname" "light"
+"origin" "-888 1928 -376"
+"light" "250"
+}
+{
+"classname" "light"
+"origin" "-1064 1784 -376"
+"light" "150"
+}
+{
+"classname" "light"
+"origin" "200 1576 120"
+}
+{
+"classname" "light"
+"origin" "200 2008 120"
+}
+{
+"classname" "info_tfgoal"
+"origin" "-728 1528 -360"
+"target" "UGBoulderRed"
+"goal_activation" "2"
+}
+{
+"classname" "info_tfgoal"
+"netname_broadcast" " »as ¬lown ¡ »ole …nto “Â‰Û “amp“oom!\n"
+"targetname" "reddethole2"
+"killtarget " "reddethole2"
+"goal_activation" "2"
+"target" "outsidedetred"
+"origin" "-336 2432 48"
+}
+{
+"classname" "light"
+"origin" "-736 1368 -248"
+"light" "250"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-288 1376 -248"
+}
+{
+"classname" "func_door"
+"angle" "-2"
+"spawnflags" "32"
+"speed" "1000"
+"lip" "16"
+"targetname" "UGBoulderRed"
+"model" "*2"
+}
+{
+"classname" "func_door"
+"angle" "-2"
+"lip" "-416"
+"speed" "200"
+"dmg" "1000"
+"wait" "-1"
+"targetname" "gratedet2"
+"model" "*3"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "180"
+"message" "Destroy The Fools!"
+"team_no" "2"
+"origin" "1128 2456 328"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "180"
+"origin" "1128 2536 328"
+"team_no" "2"
+"message" "Destroy The Fools!"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "180"
+"message" "Destroy The Fools!"
+"team_no" "2"
+"origin" "1224 1048 328"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "180"
+"origin" "1224 1128 328"
+"team_no" "2"
+"message" "Destroy The Fools!"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "180"
+"message" "Destroy The Fools!"
+"team_no" "2"
+"origin" "1320 1128 328"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "180"
+"origin" "1320 1048 328"
+"team_no" "2"
+"message" "Destroy The Fools!"
+}
+{
+"classname" "trigger_multiple"
+"target" "RedTeamDoor2"
+"team_no" "2"
+"model" "*4"
+}
+{
+"classname" "func_door"
+"angle" "-1"
+"targetname" "RedTeamDoor2"
+"speed" "800"
+"sounds" "1"
+"wait" "1"
+"dmg" "100"
+"model" "*5"
+}
+{
+"classname" "func_door"
+"angle" "0"
+"targetname" "flagroomdetred"
+"speed" "1000"
+"wait" "-1"
+"lip" "-128"
+"model" "*6"
+}
+{
+"classname" "func_door"
+"angle" "-2"
+"speed" "1000"
+"lip" "6"
+"targetname" "outsidedetred"
+"wait" "-1"
+"model" "*7"
+}
+{
+"classname" "func_door"
+"sounds" "1"
+"speed" "800"
+"targetname" "RedTeamDoor"
+"angle" "-1"
+"dmg" "100"
+"wait" "1"
+"model" "*8"
+}
+{
+"classname" "trigger_multiple"
+"target" "RedTeamDoor"
+"team_no" "2"
+"model" "*9"
+}
+{
+"classname" "trigger_multiple"
+"target" "RedTeamDoor"
+"team_no" "2"
+"model" "*10"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "180"
+"message" "Destroy The Fools!"
+"team_no" "2"
+"origin" "1320 2536 328"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "180"
+"origin" "1320 2456 328"
+"team_no" "2"
+"message" "Destroy The Fools!"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "180"
+"message" "Destroy The Fools!"
+"team_no" "2"
+"origin" "1224 2456 328"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "180"
+"origin" "1224 2536 328"
+"team_no" "2"
+"message" "Destroy The Fools!"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "180"
+"message" "Destroy The Fools!"
+"team_no" "2"
+"origin" "1128 1048 328"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "180"
+"origin" "1128 1128 328"
+"team_no" "2"
+"message" "Destroy The Fools!"
+}
+{
+"classname" "info_tfgoal"
+"target" "gratedet"
+"netname_broadcast" " »as ¬lown ¬lues «rate! \n"
+"killtarget" "me1"
+"targetname" "me1"
+"origin" "-2184 -1384 -200"
+"goal_activation" "2"
+}
+{
+"classname" "func_door"
+"targetname" "gratedet"
+"wait" "-1"
+"dmg" "1000"
+"speed" "200"
+"lip" "-416"
+"angle" "-2"
+"model" "*11"
+}
+{
+"classname" "light"
+"origin" "-1760 -96 -248"
+"light" "250"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-1752 352 -248"
+}
+{
+"classname" "info_tfgoal"
+"origin" "-2816 -64 48"
+"target" "outsidedetblue"
+"goal_activation" "2"
+"killtarget " "bluedethole2"
+"targetname" "bluedethole2"
+"netname_broadcast" " »as ¬lown ¡ »ole …nto Blues “amp “oom!\n"
+}
+{
+"classname" "info_tfgoal"
+"goal_activation" "2"
+"target" "UGBoulderBlue"
+"origin" "-1912 344 -360"
+}
+{
+"classname" "func_door"
+"targetname" "UGBoulderBlue"
+"lip" "16"
+"speed" "1000"
+"spawnflags" "32"
+"angle" "-2"
+"model" "*12"
+}
+{
+"classname" "light"
+"origin" "-2392 -584 120"
+}
+{
+"classname" "light"
+"origin" "-1960 -584 120"
+}
+{
+"classname" "light"
+"light" "150"
+"origin" "-2168 680 -376"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-2312 504 -376"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-2328 168 -376"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-2168 1096 -376"
+}
+{
+"classname" "light"
+"origin" "-2504 1656 -376"
+"light" "250"
+}
+{
+"classname" "light"
+"origin" "-2456 1960 -376"
+"light" "250"
+}
+{
+"classname" "light"
+"origin" "-2344 2072 -376"
+"light" "250"
+}
+{
+"classname" "light"
+"origin" "-1976 2056 -376"
+"light" "250"
+}
+{
+"classname" "light"
+"origin" "-1864 1912 -376"
+"light" "250"
+}
+{
+"classname" "light"
+"origin" "-1880 1640 -376"
+"light" "250"
+}
+{
+"classname" "light"
+"origin" "-2344 1496 -376"
+"light" "250"
+}
+{
+"classname" "light"
+"origin" "-1976 1480 -376"
+"light" "250"
+}
+{
+"classname" "light"
+"light" "500"
+"origin" "-2248 -1320 216"
+}
+{
+"classname" "light"
+"origin" "-2248 -1480 216"
+"light" "500"
+}
+{
+"classname" "light"
+"light" "500"
+"origin" "-2104 -1480 216"
+}
+{
+"classname" "light"
+"origin" "-1832 -1032 248"
+"light" "500"
+}
+{
+"classname" "light"
+"origin" "-1464 -1640 248"
+"light" "300"
+}
+{
+"classname" "light"
+"light" "300"
+"origin" "-1464 -1400 248"
+}
+{
+"classname" "light"
+"origin" "-2856 -1400 248"
+"light" "300"
+}
+{
+"classname" "light"
+"light" "300"
+"origin" "-2856 -1640 248"
+}
+{
+"classname" "light"
+"origin" "-2232 -2040 248"
+"spawnflags" "1024"
+"light" "250"
+}
+{
+"classname" "light"
+"origin" "-2120 -2040 248"
+"light" "250"
+}
+{
+"classname" "light"
+"origin" "-2168 -2344 184"
+"light" "220"
+}
+{
+"classname" "light"
+"origin" "-2184 -2248 232"
+"light" "220"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-2376 -2680 200"
+}
+{
+"classname" "light"
+"origin" "-1992 -2680 200"
+"light" "250"
+}
+{
+"classname" "light"
+"light" "300"
+"origin" "-2264 -3256 184"
+}
+{
+"classname" "light"
+"origin" "-2088 -3256 184"
+"light" "300"
+}
+{
+"classname" "light"
+"light" "300"
+"origin" "-2168 -3352 184"
+}
+{
+"classname" "light"
+"origin" "-2168 -3176 184"
+"light" "300"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "90"
+"message" "Destroy The Fools!"
+"team_no" "1"
+"origin" "-1512 -1512 328"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "90"
+"origin" "-1432 -1512 328"
+"team_no" "1"
+"message" "Destroy The Fools!"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "90"
+"message" "Destroy The Fools!"
+"team_no" "1"
+"origin" "-2920 -1608 328"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "90"
+"origin" "-2840 -1608 328"
+"team_no" "1"
+"message" "Destroy The Fools!"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "90"
+"message" "Destroy The Fools!"
+"team_no" "1"
+"origin" "-2840 -1704 328"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "90"
+"origin" "-2920 -1704 328"
+"team_no" "1"
+"message" "Destroy The Fools!"
+}
+{
+"classname" "trigger_multiple"
+"target" "BlueTeamDoor"
+"team_no" "1"
+"model" "*13"
+}
+{
+"classname" "trigger_multiple"
+"target" "BlueTeamDoor"
+"team_no" "1"
+"model" "*14"
+}
+{
+"classname" "func_door"
+"wait" "1"
+"dmg" "100"
+"angle" "-1"
+"targetname" "BlueTeamDoor"
+"speed" "800"
+"sounds" "1"
+"model" "*15"
+}
+{
+"classname" "func_door"
+"wait" "-1"
+"targetname" "outsidedetblue"
+"lip" "6"
+"speed" "1000"
+"angle" "-2"
+"model" "*16"
+}
+{
+"classname" "info_tfgoal"
+"netname_broadcast" " »as ¬lown ¡ »ole …nto Blues ∆lag “oom!\n"
+"targetname" "bluedethole"
+"killtarget " "bluedethole"
+"goal_activation" "2"
+"target" "flagroomdetblue"
+"origin" "-2128 -3264 416"
+}
+{
+"classname" "func_door"
+"wait" "-1"
+"speed" "1000"
+"targetname" "flagroomdetblue"
+"angle" "0"
+"lip" "-128"
+"model" "*17"
+}
+{
+"classname" "trigger_hurt"
+"dmg" "500"
+"model" "*18"
+}
+{
+"classname" "info_player_start"
+"origin" "-2112 352 392"
+}
+{
+"classname" "info_tfdetect"
+"origin" "-2192 -128 272"
+"impulse" "66"
+"hook_out" "1"
+"ammo_rockets" "0"
+"ammo_cells" "0"
+"maxammo_medikit" "0"
+"maxammo_detpack" "0"
+}
+{
+"classname" "func_door"
+"dmg" "100"
+"wait" "1"
+"sounds" "1"
+"speed" "800"
+"targetname" "BlueTeamDoor2"
+"angle" "-1"
+"model" "*19"
+}
+{
+"classname" "trigger_multiple"
+"team_no " "1"
+"target" "BlueTeamDoor2"
+"model" "*20"
+}
+{
+"classname" "trigger_multiple"
+"target" "BlueTeamDoor2"
+"team_no" "1"
+"model" "*21"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "90"
+"message" "Destroy The Fools!"
+"team_no" "1"
+"origin" "-1432 -1704 328"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "90"
+"origin" "-1512 -1704 328"
+"team_no" "1"
+"message" "Destroy The Fools!"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "90"
+"message" "Destroy The Fools!"
+"team_no" "1"
+"origin" "-1512 -1608 328"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "90"
+"origin" "-1432 -1608 328"
+"team_no" "1"
+"message" "Destroy The Fools!"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "90"
+"message" "Destroy The Fools!"
+"team_no" "1"
+"origin" "-2920 -1512 328"
+}
+{
+"classname" "info_player_teamspawn"
+"angle" "90"
+"origin" "-2840 -1512 328"
+"team_no" "1"
+"message" "Destroy The Fools!"
+}
+{
+"classname" "light"
+"light" "200"
+"origin" "-2184 -2696 200"
+}
+{
+"classname" "light"
+"light" "400"
+"origin" "-2104 -1320 216"
+}
+{
+"classname" "light"
+"origin" "-1832 -1720 264"
+"light" "450"
+}
+{
+"classname" "light"
+"origin" "-2552 -1000 264"
+"light" "450"
+}
+{
+"classname" "light"
+"origin" "-2024 -3272 456"
+"light" "130"
+"wait" ".4"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1688 -3320 440"
+"wait" ".4"
+}
+{
+"classname" "light"
+"origin" "-1704 -2984 440"
+"light" "100"
+"wait" ".4"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1704 -2648 440"
+"wait" ".4"
+}
+{
+"classname" "light"
+"origin" "-1704 -2200 312"
+"light" "100"
+"wait" ".4"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-1720 -1752 440"
+"wait" ".4"
+}
+{
+"classname" "light"
+"wait" ".4"
+"origin" "-1928 -1624 440"
+"light" "130"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-2424 -1624 440"
+"wait" ".4"
+}
+{
+"classname" "light"
+"wait" ".4"
+"origin" "-2424 -1128 440"
+"light" "130"
+}
+{
+"classname" "light"
+"light" "130"
+"origin" "-1928 -1128 440"
+"wait" ".4"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-2584 -1160 440"
+"wait" ".4"
+}
+{
+"classname" "light"
+"wait" ".4"
+"origin" "-2904 -1144 360"
+"light" "100"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-2872 -824 232"
+"wait" ".4"
+}
+{
+"classname" "light"
+"wait" ".4"
+"origin" "-3064 -648 168"
+"light" "100"
+}
+{
+"classname" "light"
+"light" "100"
+"origin" "-3144 -376 104"
+"wait" ".4"
+}
+{
+"classname" "light"
+"origin" "-1848 -120 712"
+"light" "1000"
+}
+{
+"classname" "light"
+"light" "1000"
+"origin" "-2536 -104 712"
+}
+{
+"classname" "light"
+"origin" "-2520 1384 712"
+"light" "1000"
+}
+{
+"classname" "light"
+"light" "1000"
+"origin" "-1832 1368 712"
+}
+{
+"classname" "light"
+"origin" "-2312 504 -376"
+"light" "250"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-1744 -208 -392"
+}
+{
+"classname" "light"
+"origin" "-1760 -544 -392"
+"light" "250"
+}
+{
+"classname" "light"
+"light" "250"
+"origin" "-1760 -912 -392"
+}
+{
+"classname" "light"
+"origin" "-1760 -1376 -392"
+"light" "250"
+}
+{
+"classname" "light"
+"light" "350"
+"origin" "-2176 -1376 -392"
+}
+{
+"classname" "light"
+"light" "450"
+"origin" "-2552 -1720 264"
+}
+{
+"classname" "info_tfgoal"
+"target" "gratedet2"
+"netname_broadcast" " »as ¬lown “Â‰Û «rate! \n"
+"killtarget" "me2"
+"targetname" "me2"
+"origin" "1016 1816 -200"
+"goal_activation" "2"
+}
+{
+"classname" "func_illusionary"
+"model" "*22"
+}
+{
+"classname" "trigger_push"
+"angle" "-2"
+"speed" "40"
+"model" "*23"
+}
+{
+"classname" "trigger_push"
+"angle" "-2"
+"speed" "40"
+"model" "*24"
+}
+{
+"classname" "info_tfgoal"
+"origin" "-2812 -1488 224"
+"ammo_cells" "400"
+"ammo_detpack" "3"
+"ammo_medikit" "100"
+"ammo_nails" "100"
+"ammo_rockets" "100"
+"ammo_shells" "100"
+"armortype" "0.8"
+"armorvalue" "300"
+"goal_activation" "1"
+"goal_effects" "1"
+"health" "200"
+"message" "Resupplied\n"
+"mdl" "progs/backpack.mdl"
+"netname" "ressupply_pack2"
+"no_grenades_1" "6"
+"no_grenades_2" "6"
+"noise" "items/backpack.wav"
+"skin" "1"
+"team_no" "1"
+"wait" "1"
+}
+{
+"classname" "info_tfgoal"
+"origin" "-1554 -1488 224"
+"ammo_cells" "400"
+"ammo_detpack" "3"
+"ammo_medikit" "100"
+"ammo_nails" "100"
+"ammo_rockets" "100"
+"ammo_shells" "100"
+"armortype" "0.8"
+"armorvalue" "300"
+"goal_activation" "1"
+"goal_effects" "1"
+"health" "200"
+"message" "Resupplied\n"
+"mdl" "progs/backpack.mdl"
+"netname" "ressupply_pack2"
+"no_grenades_1" "6"
+"no_grenades_2" "6"
+"noise" "items/backpack.wav"
+"skin" "1"
+"team_no" "1"
+"wait" "1"
+}
+{
+"classname" "info_tfgoal"
+"origin" "1104 1158 224"
+"ammo_cells" "400"
+"ammo_detpack" "3"
+"ammo_medikit" "100"
+"ammo_nails" "100"
+"ammo_rockets" "100"
+"ammo_shells" "100"
+"armortype" "0.8"
+"armorvalue" "300"
+"goal_activation" "1"
+"goal_effects" "1"
+"health" "200"
+"message" "Resupplied\n"
+"mdl" "progs/backpack.mdl"
+"netname" "ressupply_pack2"
+"no_grenades_1" "6"
+"no_grenades_2" "6"
+"noise" "items/backpack.wav"
+"skin" "1"
+"team_no" "2"
+"wait" "1"
+}
+{
+"classname" "info_tfgoal"
+"origin" "1104 2416 224"
+"ammo_cells" "400"
+"ammo_detpack" "3"
+"ammo_medikit" "100"
+"ammo_nails" "100"
+"ammo_rockets" "100"
+"ammo_shells" "100"
+"armortype" "0.8"
+"armorvalue" "300"
+"goal_activation" "1"
+"goal_effects" "1"
+"health" "200"
+"message" "Resupplied\n"
+"mdl" "progs/backpack.mdl"
+"netname" "ressupply_pack2"
+"no_grenades_1" "6"
+"no_grenades_2" "6"
+"noise" "items/backpack.wav"
+"skin" "1"
+"team_no" "2"
+"wait" "1"
+}

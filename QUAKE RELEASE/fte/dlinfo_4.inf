@@ -1,0 +1,5 @@
+version 0
+"QRP [24bit Faithful Cursor]" "http://facelift.quakedev.com/retexture/textures/other/cursor.png" "cursor.png" 0 "id1\textures"
+"QRP [24bit Faithful Menu Charset]" "http://facelift.quakedev.com/retexture/textures/other/mcharset.png" "mcharset.png" 0 "id1\gfx"
+"QRP [24bit Faithful Scrollbars]" "http://facelift.quakedev.com/retexture/textures/other/scrollbars.zip" "scrollbars.pk3" 0 "id1"
+"Levelshots" "http://facelift.quakedev.com/download/levelshots-104files-4-1-06.zip" "levelshots-104files-4-1-06.pk3" 0 "id1"

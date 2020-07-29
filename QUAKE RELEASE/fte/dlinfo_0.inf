@@ -1,0 +1,9 @@
+version 1
+"Cool particles!" "http://fteqw.sourceforge.net/files/cool.cfg" "particles/cool.cfg" 0 "fte"
+"rtlights/KGB:ROMI's id1" "http://www.kgbsyndicate.com/romi/id1.zip" "id1rtlights.pk3" 0 "id1"
+"plugins/ezScript" "http://fteqw.sourceforge.net/files/ezscript.qvm" "plugins/ezscript.qvm" 1 "fte"
+"plugins/email notifications" "http://fteqw.sourceforge.net/files/emailnot.qvm" "plugins/emailnot.qvm" 0 "fte"
+sublist "http://facelift.quakedev.com/downloadables.txt" "Quake Retexturing & Remodelling Project"
+sublist "http://timeserv.quakedev.com/downloadables.txt" "timeserv's"
+sublist "http://devilyke.com/files/quake/downloadables.txt" "rjlan"
+

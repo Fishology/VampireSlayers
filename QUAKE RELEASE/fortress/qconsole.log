@@ -1,0 +1,4035 @@
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 148/768 [19% usage]
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+SV_Error: Missmatch on qwprogs.dat header CRC, this server can only run QuakeWorld mods!
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client Donburi <1> connected 127.0.0.1:27001
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+Donburi <1> has joined Team No 1 (Blue team)
+Voting> Donburi wants to play bam4 right now, in Neo Mode, type "VoteYes" or "VoteNo" to vote
+
+Voting> Success! Switching map to bam4, in Neo Mode
+
+Loading bam4 map file...
+FindFile: ./fortress/cpcycle/standard.cfg
+execing cpcycle/standard.cfg
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+FindFile: can't find cpcycle/bam4.cfg
+couldn't exec cpcycle/bam4.cfg
+FindFile: ./fortress/maps/bam4.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/bam4.bsp
+Building PHS...
+Average leafs visible / hearable / total: 125 / 354 / 1692
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/bam4.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: can't find maps/bam4.lit
+FindFile: can't find maps/bam4.sky
+FindFile: can't find maps/bam4.hrt
+Models precacheed: 129/256 [50% usage] (map: 34 others: 95)
+Sounds precacheed: 191/256 [74% usage]
+Edicts used (atm): 163/768 [21% usage]
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "bam4" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+Donburi <1> has joined Team No 2 (Red team)
+Donburi <1> checks if his weapon is loaded
+FindFile: can't find maps/4fort4.bsp
+Can't find maps/4fort4.bsp
+map <levelname> : continue game on a new level
+Console> maps
+FindFile: can't find maps/hunted2d.bsp
+Can't find maps/hunted2d.bsp
+Voting> Donburi wants to play huntedr right now, in Neo Mode, type "VoteYes" or "VoteNo" to vote
+
+Voting> Success! Switching map to huntedr, in Neo Mode
+
+Loading huntedr map file...
+FindFile: ./fortress/cpcycle/standard.cfg
+execing cpcycle/standard.cfg
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+FindFile: can't find cpcycle/huntedr.cfg
+couldn't exec cpcycle/huntedr.cfg
+FindFile: ./fortress/maps/huntedr.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/huntedr.bsp
+Building PHS...
+Average leafs visible / hearable / total: 108 / 224 / 320
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/huntedr.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: can't find maps/huntedr.lit
+FindFile: can't find maps/huntedr.sky
+FindFile: can't find maps/huntedr.hrt
+Models precacheed: 115/256 [44% usage] (map: 18 others: 97)
+Sounds precacheed: 187/256 [73% usage]
+Edicts used (atm): 115/768 [14% usage]
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "huntedr" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+Donburi <1> has joined Team No 2 (Red team)
+Reteam Timer Disabled Due to Nonstandard Map
+Donburi dropped
+Donburi <1> has left the game with 0 frags
+Client Donburi <1> removed 127.0.0.1:27001
+map <levelname> : continue game on a new level
+FindFile: ./fortress/maps/2fort5.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/2fort5.bsp
+Building PHS...
+Average leafs visible / hearable / total: 54 / 173 / 556
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/2fort5.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/2fort5.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/2fort5.sky
+FindFile: can't find maps/2fort5.hrt
+Models precacheed: 120/256 [46% usage] (map: 24 others: 96)
+Sounds precacheed: 194/256 [75% usage]
+Edicts used (atm): 262/768 [34% usage]
+Client -=Shaka[UVM]=- <2> connected 127.0.0.1:27001
+-=Shaka[UVM]=- [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "2fort5" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+-=Shaka[UVM]=- <2> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <2> has left the game with 0 frags
+Client -=Shaka[UVM]=- <2> removed 127.0.0.1:27001
+127.0.0.1:27001:reconnect
+Client  <2> removed 127.0.0.1:27001
+Client -=Shaka[UVM]=- <3> connected 127.0.0.1:27001
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <3> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <3> has left the game with 0 frags
+Client -=Shaka[UVM]=- <3> removed 127.0.0.1:27001
+127.0.0.1:27001:reconnect
+Client  <3> removed 127.0.0.1:27001
+Client -=Shaka[UVM]=- <4> connected 127.0.0.1:27001
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <4> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <4> has left the game with 0 frags
+Client -=Shaka[UVM]=- <4> removed 127.0.0.1:27001
+Client Donburi <5> connected 127.0.0.1:27001
+Donburi [FuhQuake v0.31] has joined the server
+Donburi <5> has joined Team No 2 (Red team)
+Donburi dropped
+Donburi <5> has left the game with 0 frags
+Client Donburi <5> removed 127.0.0.1:27001
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client Donburi <1> connected 127.0.0.1:27001
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+Donburi <1> has joined Team No 2 (Red team)
+Voting> Donburi wants to play 2mach1 right now, in Neo Mode, type "VoteYes" or "VoteNo" to vote
+
+Voting> Success! Switching map to 2mach1, in Neo Mode
+
+Loading 2mach1 map file...
+FindFile: ./fortress/cpcycle/standard.cfg
+execing cpcycle/standard.cfg
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+FindFile: can't find cpcycle/2mach1.cfg
+couldn't exec cpcycle/2mach1.cfg
+FindFile: ./fortress/maps/2mach1.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/2mach1.bsp
+Building PHS...
+Average leafs visible / hearable / total: 160 / 352 / 515
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/2mach1.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Map Info> This map supports transparent liquids.
+Turning ON watervis... (map flagged as watervised)
+Looking for any map extra files...
+FindFile: can't find maps/2mach1.lit
+FindFile: can't find maps/2mach1.sky
+FindFile: can't find maps/2mach1.hrt
+Models precacheed:  96/256 [37% usage] (map: 5 others: 91)
+Sounds precacheed: 187/256 [73% usage]
+Edicts used (atm):  72/768 [09% usage]
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "2mach1" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+Donburi <1> has joined Team No 2 (Red team)
+Donburi dropped
+Donburi <1> has left the game with 0 frags
+Client Donburi <1> removed 127.0.0.1:27001
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client Donburi <1> connected 127.0.0.1:27001
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+Donburi <1> has joined Team No 1 (Blue team)
+Client -=Shaka[UVM]=- <2> connected 127.0.0.1:27002
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <2> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <2> has left the game with 0 frags
+Client -=Shaka[UVM]=- <2> removed 127.0.0.1:27002
+Client -=Shaka[UVM]=- <3> connected 127.0.0.1:27002
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <3> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <3> has left the game with 0 frags
+Client -=Shaka[UVM]=- <3> removed 127.0.0.1:27002
+127.0.0.1:27002:reconnect
+Client  <3> removed 127.0.0.1:27002
+Client -=Shaka[UVM]=- <4> connected 127.0.0.1:27002
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <4> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- <4> has joined Team No 1 (Blue team)
+Reteam Timer: -=Shaka[UVM]=- will switch teams in 30 seconds!
+-=Shaka[UVM]=- <4> has joined Team No 2 (Red team)
+Reteam Timer: -=Shaka[UVM]=- HAS SWITCHED TEAMS!
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <4> has left the game with 0 frags
+Client -=Shaka[UVM]=- <4> removed 127.0.0.1:27002
+127.0.0.1:27002:reconnect
+Client  <4> removed 127.0.0.1:27002
+Client -=Shaka[UVM]=- <5> connected 127.0.0.1:27002
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <5> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <5> has left the game with 0 frags
+Client -=Shaka[UVM]=- <5> removed 127.0.0.1:27002
+Client -=Shaka[UVM]=- <6> connected 127.0.0.1:27002
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <6> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- <6> has joined Team No 1 (Blue team)
+Reteam Timer: -=Shaka[UVM]=- will switch teams in 30 seconds!
+-=Shaka[UVM]=- <6> has joined Team No 2 (Red team)
+Reteam Timer: -=Shaka[UVM]=- HAS SWITCHED TEAMS!
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down. (Server restart, shell must launch server again)
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client Donburi <1> connected 127.0.0.1:27001
+Client -=Shaka[UVM]=- <2> connected 127.0.0.1:27002
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+-=Shaka[UVM]=- [FTEquake] has joined the server
+Donburi <1> has joined Team No 1 (Blue team)
+(Donburi) <1>: Spy Alert!
+-=Shaka[UVM]=- <2> picks a random team!
+-=Shaka[UVM]=- <2> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <2> has left the game with 0 frags
+Client -=Shaka[UVM]=- <2> removed 127.0.0.1:27002
+127.0.0.1:27002:reconnect
+Client  <2> removed 127.0.0.1:27002
+Client -=Shaka[UVM]=- <3> connected 127.0.0.1:27002
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <3> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- <3> picks a random team!
+-=Shaka[UVM]=- <3> has joined Team No 1 (Blue team)
+Reteam Timer: -=Shaka[UVM]=- will switch teams in 30 seconds!
+-=Shaka[UVM]=- <3> has joined Team No 2 (Red team)
+Reteam Timer: -=Shaka[UVM]=- HAS SWITCHED TEAMS!
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <3> has left the game with 0 frags
+Client -=Shaka[UVM]=- <3> removed 127.0.0.1:27002
+Client -=Shaka[UVM]=- <4> connected 127.0.0.1:27002
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <4> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- <4> incinerates himself with his own explosive shot
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down. (Server restart, shell must launch server again)
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client Donburi <1> connected 127.0.0.1:27001
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+Donburi <1> has joined Team No 1 (Blue team)
+Client -=Shaka[UVM]=- <2> connected 127.0.0.1:27002
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <2> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <2> has left the game with 0 frags
+Client -=Shaka[UVM]=- <2> removed 127.0.0.1:27002
+Client -=Shaka[UVM]=- <3> connected 127.0.0.1:27002
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <3> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- <3> is knifed from behind by Donburi <1>
+-=Shaka[UVM]=- <3> is knifed from behind by Donburi <1>
+Donburi <1> was electrocuted by -=Shaka[UVM]=- <3>'s tesla coil
+-=Shaka[UVM]=- <3> is knifed from behind by Donburi <1>
+-=Shaka[UVM]=- <3> is knifed from behind by Donburi <1>
+-=Shaka[UVM]=- <3> was ripped limb from limb by The Fiend Randolf (Donburi <1>)
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <3> has left the game with 1 frags
+Client -=Shaka[UVM]=- <3> removed 127.0.0.1:27002
+Donburi dropped
+Donburi <1> has left the game with 5 frags
+Client Donburi <1> removed 127.0.0.1:27001
+Client -=Shaka[UVM]=- <4> connected 127.0.0.1:27001
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <4> has joined Team No 1 (Blue team)
+-=Shaka[UVM]=- <4> suicides
+Console> m
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+-=Shaka[UVM]=- [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+-=Shaka[UVM]=- <4> has joined Team No 1 (Blue team)
+-=Shaka[UVM]=- <4> suicides
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <4> has left the game with -1 frags
+Client -=Shaka[UVM]=- <4> removed 127.0.0.1:27001
+Client -=Shaka[UVM]=- <5> connected 127.0.0.1:27001
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <5> has joined Team No 2 (Red team)
+Voting> -=Shaka[UVM]=- wants to play 2mach1 right now, in Neo Mode, type "VoteYes" or "VoteNo" to vote
+
+Voting> Success! Switching map to 2mach1, in Neo Mode
+
+Loading 2mach1 map file...
+FindFile: ./fortress/cpcycle/standard.cfg
+execing cpcycle/standard.cfg
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+FindFile: can't find cpcycle/2mach1.cfg
+couldn't exec cpcycle/2mach1.cfg
+FindFile: ./fortress/maps/2mach1.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/2mach1.bsp
+Building PHS...
+Average leafs visible / hearable / total: 160 / 352 / 515
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/2mach1.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Map Info> This map supports transparent liquids.
+Turning ON watervis... (map flagged as watervised)
+Looking for any map extra files...
+FindFile: can't find maps/2mach1.lit
+FindFile: can't find maps/2mach1.sky
+FindFile: can't find maps/2mach1.hrt
+Models precacheed:  96/256 [37% usage] (map: 5 others: 91)
+Sounds precacheed: 187/256 [73% usage]
+Edicts used (atm):  72/768 [09% usage]
+-=Shaka[UVM]=- [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "2mach1" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+-=Shaka[UVM]=- <5> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <5> has left the game with 0 frags
+Client -=Shaka[UVM]=- <5> removed 127.0.0.1:27001
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Turning OFF watervis... (map not flagged as watervised)
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 140/256 [54% usage] (map: 50 others: 90)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 148/768 [19% usage]
+Client -=Shaka[UVM]=- <6> connected 127.0.0.1:27001
+-=Shaka[UVM]=- [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+-=Shaka[UVM]=- <6> has joined Team No 2 (Red team)
+Voting> -=Shaka[UVM]=- suggests 2mach1 as next map, in Attackers Go Red mode, type "VoteYes" or "VoteNo" to vote
+
+Voting> Success! Setting 2mach1 as next map, in Attackers Go Red mode
+ [1 for / 0 against]
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <6> has left the game with 0 frags
+Client -=Shaka[UVM]=- <6> removed 127.0.0.1:27001
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client Donburi <1> connected 127.0.0.1:27001
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+Donburi <1> has joined Team No 1 (Blue team)
+Client -=Shaka[UVM]=- <2> connected 127.0.0.1:27002
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <2> picks a random team!
+-=Shaka[UVM]=- <2> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- <2> gets sawn in half by Donburi <1>
+-=Shaka[UVM]=- <2> gets sawn in half by Donburi <1>
+Donburi <1> was axe-murdered by -=Shaka[UVM]=- <2>
+-=Shaka[UVM]=- <2> gets sawn in half by Donburi <1>
+-=Shaka[UVM]=- <2> was axe-murdered by Donburi <1>
+Donburi <1> gets sawn in half by -=Shaka[UVM]=- <2>
+-=Shaka[UVM]=- <2> gets sawn in half by Donburi <1>
+-=Shaka[UVM]=- <2> gets sawn in half by Donburi <1>
+-=Shaka[UVM]=- <2> gets sawn in half by Donburi <1>
+-=Shaka[UVM]=- <2> gets sawn in half by Donburi <1>
+-=Shaka[UVM]=- <2> gets sawn in half by Donburi <1>
+Donburi <1> gets sawn in half by -=Shaka[UVM]=- <2>
+-=Shaka[UVM]=- <2> gets sawn in half by Donburi <1>
+-=Shaka[UVM]=- <2> gets sawn in half by Donburi <1>
+-=Shaka[UVM]=- <2> gets sawn in half by Donburi <1>
+Donburi dropped
+Donburi <1> has left the game with 12 frags
+Client Donburi <1> removed 127.0.0.1:27001
+-=Shaka[UVM]=- <2>: quit\
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <2> has left the game with 3 frags
+Client -=Shaka[UVM]=- <2> removed 127.0.0.1:27002
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client Donburi <1> connected 127.0.0.1:27001
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+Donburi <1> picks a random team!
+Donburi <1> has joined Team No 1 (Blue team)
+Donburi dropped
+Donburi <1> has left the game with 0 frags
+Client Donburi <1> removed 127.0.0.1:27001
+Client Donburi <2> connected 127.0.0.1:27001
+Donburi [FuhQuake v0.31] has joined the server
+Donburi <2> has joined Team No 1 (Blue team)
+Client -=Shaka[UVM]=- <3> connected 127.0.0.1:27002
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <3> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- <3> suicides
+-=Shaka[UVM]=- <3> grappled with Donburi <2>
+Console> r
+Console> m
+FindFile: ./fortress/maps/2fort5.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/2fort5.bsp
+Building PHS...
+Average leafs visible / hearable / total: 54 / 173 / 556
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/2fort5.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/2fort5.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/2fort5.sky
+FindFile: can't find maps/2fort5.hrt
+Models precacheed: 121/256 [47% usage] (map: 24 others: 97)
+Sounds precacheed: 195/256 [76% usage]
+Edicts used (atm): 263/768 [34% usage]
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "2fort5" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <3> has joined Team No 1 (Blue team)
+Donburi <2> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- <3> is reduced to ashes by Donburi <2>
+FindFile: ./fortress/maps/2fort5r.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/2fort5r.bsp
+Building PHS...
+Average leafs visible / hearable / total: 52 / 161 / 556
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/2fort5r.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: can't find maps/2fort5r.lit
+FindFile: can't find maps/2fort5r.sky
+FindFile: can't find maps/2fort5r.hrt
+Models precacheed: 121/256 [47% usage] (map: 24 others: 97)
+Sounds precacheed: 195/256 [76% usage]
+Edicts used (atm): 263/768 [34% usage]
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "2fort5r" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <3> has joined Team No 2 (Red team)
+Console> `m
+FindFile: ./fortress/maps/2fort5r.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/2fort5r.bsp
+Building PHS...
+Average leafs visible / hearable / total: 52 / 161 / 556
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/2fort5r.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: can't find maps/2fort5r.lit
+FindFile: can't find maps/2fort5r.sky
+FindFile: can't find maps/2fort5r.hrt
+Models precacheed: 121/256 [47% usage] (map: 24 others: 97)
+Sounds precacheed: 195/256 [76% usage]
+Edicts used (atm): 263/768 [34% usage]
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "2fort5r" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <3> has joined Team No 2 (Red team)
+FindFile: ./fortress/maps/2fort5r.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/2fort5r.bsp
+Building PHS...
+Average leafs visible / hearable / total: 52 / 161 / 556
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/2fort5r.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: can't find maps/2fort5r.lit
+FindFile: can't find maps/2fort5r.sky
+FindFile: can't find maps/2fort5r.hrt
+Models precacheed: 121/256 [47% usage] (map: 24 others: 97)
+Sounds precacheed: 195/256 [76% usage]
+Edicts used (atm): 263/768 [34% usage]
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "2fort5r" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <3> has joined Team No 1 (Blue team)
+FindFile: ./fortress/maps/2fort5r.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/2fort5r.bsp
+Building PHS...
+Average leafs visible / hearable / total: 52 / 161 / 556
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/2fort5r.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: can't find maps/2fort5r.lit
+FindFile: can't find maps/2fort5r.sky
+FindFile: can't find maps/2fort5r.hrt
+Models precacheed: 121/256 [47% usage] (map: 24 others: 97)
+Sounds precacheed: 195/256 [76% usage]
+Edicts used (atm): 263/768 [34% usage]
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "2fort5r" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <3> has joined Team No 1 (Blue team)
+FindFile: ./fortress/maps/2fort5r.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/2fort5r.bsp
+Building PHS...
+Average leafs visible / hearable / total: 52 / 161 / 556
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/2fort5r.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: can't find maps/2fort5r.lit
+FindFile: can't find maps/2fort5r.sky
+FindFile: can't find maps/2fort5r.hrt
+Models precacheed: 121/256 [47% usage] (map: 24 others: 97)
+Sounds precacheed: 195/256 [76% usage]
+Edicts used (atm): 263/768 [34% usage]
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "2fort5r" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <3> has joined Team No 1 (Blue team)
+FindFile: ./fortress/maps/2fort5r.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/2fort5r.bsp
+Building PHS...
+Average leafs visible / hearable / total: 52 / 161 / 556
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/2fort5r.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: can't find maps/2fort5r.lit
+FindFile: can't find maps/2fort5r.sky
+FindFile: can't find maps/2fort5r.hrt
+Models precacheed: 121/256 [47% usage] (map: 24 others: 97)
+Sounds precacheed: 195/256 [76% usage]
+Edicts used (atm): 263/768 [34% usage]
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "2fort5r" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <3> has joined Team No 1 (Blue team)
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <3> has left the game with 0 frags
+Client -=Shaka[UVM]=- <3> removed 127.0.0.1:27002
+Donburi dropped
+Donburi <2> has left the game with 0 frags
+Client Donburi <2> removed 127.0.0.1:27001
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client -=Shaka[UVM]=- <1> connected 127.0.0.1:27001
+-=Shaka[UVM]=- dropped
+Client -=Shaka[UVM]=- <1> removed 127.0.0.1:27001
+Client Donburi <2> connected 127.0.0.1:27001
+Donburi [FuhQuake v0.31] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+Donburi <2> has joined Team No 1 (Blue team)
+Client -=Shaka[UVM]=- <3> connected 127.0.0.1:27002
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <3> has joined Team No 2 (Red team)
+Donburi <2> is knifed from behind by -=Shaka[UVM]=- <3>
+-=Shaka[UVM]=- <3> extirpates Donburi <2>'s heart
+Donburi <2> thought he was safe from Gelloshram (-=Shaka[UVM]=- <3>)
+-=Shaka[UVM]=- <3>'s demon, Gelloshram, rends apart Donburi <2>
+Donburi <2> was ripped limb from limb by Gelloshram (-=Shaka[UVM]=- <3>)
+-=Shaka[UVM]=- <3>'s fiend touches the water and dies
+Donburi <2> didn't survive Gallopos's (-=Shaka[UVM]=- <3>) bites
+Donburi <2> gets assassinated by -=Shaka[UVM]=- <3>
+Donburi <2> was nullified by the scrag Ranierd (-=Shaka[UVM]=- <3>)
+Donburi <2> didn't survive Ranierd's (-=Shaka[UVM]=- <3>) acid
+Donburi <2> didn't survive Ranierd's (-=Shaka[UVM]=- <3>) acid
+-=Shaka[UVM]=- <3> is mown down by Donburi <2>'s sentry gun
+-=Shaka[UVM]=- <3>'s scrag, Ranierd, removes Donburi <2>
+-=Shaka[UVM]=- <3>'s scrag, Ranierd, is killed by Private Class III J.Phoenix (Donburi <2>)
+Private Class III J.Phoenix (Donburi <2>) kills the piranha Gallopos (-=Shaka[UVM]=- <3>)
+-=Shaka[UVM]=- <3> is mown down by Donburi <2>'s sentry gun
+-=Shaka[UVM]=- <3> is mown down by Donburi <2>'s sentry gun
+-=Shaka[UVM]=- <3> practices being Private Class II J.Phoenix's (Donburi <2>) clay pigeon
+Unfortunately, Donburi <2>'s soldier didn't learn to swim when he was a kid
+-=Shaka[UVM]=- <3> is turned into Private Class III A.McNab's (Donburi <2>) pincushion
+-=Shaka[UVM]=- <3> practices being Private Class III A.McNab's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> is split in two by a powerful axe blow from Private Class II A.McNab (Donburi <2>)
+Donburi <2> gets assassinated by -=Shaka[UVM]=- <3>
+Donburi <2>'s mercenary soldier, Private Class II A.McNab, was killed by -=Shaka[UVM]=- <3>
+-=Shaka[UVM]=- <3> is obliterated by Donburi <2>'s sentry gun
+-=Shaka[UVM]=- <3> is split in two by a powerful axe blow from Private Class III R.Gustafson (Donburi <2>)
+-=Shaka[UVM]=- <3> practices being Private Class III R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> practices being Private Class II R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> is split in two by a powerful axe blow from Private Class II R.Gustafson (Donburi <2>)
+-=Shaka[UVM]=- <3> is split in two by a powerful axe blow from Private Class I R.Gustafson (Donburi <2>)
+-=Shaka[UVM]=- <3> practices being Private Class I R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> practices being Lance Corporal R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> practices being Lance Corporal R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> practices being Corporal R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> practices being Corporal R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> is split in two by a powerful axe blow from Sergeant R.Gustafson (Donburi <2>)
+-=Shaka[UVM]=- <3> practices being Sergeant R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> practices being Staff Sergeant R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> practices being Staff Sergeant R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> practices being Warrant Officer II R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> practices being Warrant Officer II R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> practices being Warrant Officer I R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> is turned into Warrant Officer I R.Gustafson's (Donburi <2>) pincushion
+-=Shaka[UVM]=- <3> is turned into Lieutenant Class II R.Gustafson's (Donburi <2>) pincushion
+-=Shaka[UVM]=- <3> practices being Lieutenant Class II R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> practices being Lieutenant Class I R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> practices being Lieutenant Class I R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> practices being Captain R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> practices being Captain R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> is filleted by Major R.Gustafson (Donburi <2>)
+-=Shaka[UVM]=- <3> is turned into Major R.Gustafson's (Donburi <2>) pincushion
+-=Shaka[UVM]=- <3>'s scrag, Yumnian, is killed by Colonel R.Gustafson (Donburi <2>)
+-=Shaka[UVM]=- <3> is turned into Colonel R.Gustafson's (Donburi <2>) pincushion
+-=Shaka[UVM]=- <3> is turned into Brigadier R.Gustafson's (Donburi <2>) pincushion
+-=Shaka[UVM]=- <3> is turned into Brigadier R.Gustafson's (Donburi <2>) pincushion
+-=Shaka[UVM]=- <3> is turned into swiss cheese by General R.Gustafson's (Donburi <2>) buckshot
+-=Shaka[UVM]=- <3> is turned into swiss cheese by General R.Gustafson's (Donburi <2>) buckshot
+-=Shaka[UVM]=- <3> is turned into swiss cheese by Field Marshal R.Gustafson's (Donburi <2>) buckshot
+-=Shaka[UVM]=- <3> is turned into swiss cheese by Field Marshal R.Gustafson's (Donburi <2>) buckshot
+-=Shaka[UVM]=- <3> is turned into swiss cheese by Field Marshal R.Gustafson's (Donburi <2>) buckshot
+-=Shaka[UVM]=- <3> is turned into Field Marshal R.Gustafson's (Donburi <2>) pincushion
+-=Shaka[UVM]=- <3> is turned into swiss cheese by Field Marshal R.Gustafson's (Donburi <2>) buckshot
+-=Shaka[UVM]=- <3> practices being Field Marshal R.Gustafson's (Donburi <2>) clay pigeon
+Donburi <2> is forced to donate his blood by -=Shaka[UVM]=- <3>
+-=Shaka[UVM]=- <3> is turned into Field Marshal R.Gustafson's (Donburi <2>) pincushion
+-=Shaka[UVM]=- <3> is turned into swiss cheese by Field Marshal R.Gustafson's (Donburi <2>) buckshot
+-=Shaka[UVM]=- <3> is turned into swiss cheese by Field Marshal R.Gustafson's (Donburi <2>) buckshot
+-=Shaka[UVM]=- <3> is turned into swiss cheese by Field Marshal R.Gustafson's (Donburi <2>) buckshot
+-=Shaka[UVM]=- <3> is sliced and diced by Field Marshal R.Gustafson's (Donburi <2>) blade
+-=Shaka[UVM]=- <3> practices being Field Marshal R.Gustafson's (Donburi <2>) clay pigeon
+-=Shaka[UVM]=- <3> is sliced and diced by Field Marshal R.Gustafson's (Donburi <2>) blade
+Field Marshal R.Gustafson declares that -=Shaka[UVM]=- <3> IS the rocket man
+Field Marshal R.Gustafson declares that -=Shaka[UVM]=- <3> IS the rocket man
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <3> has left the game with 14 frags
+Client -=Shaka[UVM]=- <3> removed 127.0.0.1:27002
+Donburi dropped
+Donburi <2> has left the game with 54 frags
+Client Donburi <2> removed 127.0.0.1:27001
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 88.198.151.90:27000
+Sending heartbeat to 213.221.183.68:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+======OBJECT ERROR in worldspawn:
+fortress
+modelindex       1.0
+movetype         7.0
+solid            4.0
+classname      worldspawn
+model          maps/well6.bsp
+message        The Well
+sounds           4.0
+SV_Error: Program error
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Current gamedir: ./fortress
+Console> rate
+Console> setinfo
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client user-1 <1> connected 127.0.0.1:27001
+-=Shaka[UVM]=- [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: No limit
+Custom: Enabled * Money: 100000
+Environment: Standard World
+
+-=Shaka[UVM]=- <1> has joined Team No 1 (Blue team)
+-=Shaka[UVM]=- <1> suicides
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <1> has left the game with -1 frags
+Client -=Shaka[UVM]=- <1> removed 127.0.0.1:27001
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client user-1 <1> connected 127.0.0.1:27001
+-=Shaka[UVM]=- [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: No limit
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <1> has left the game with 0 frags
+Client -=Shaka[UVM]=- <1> removed 127.0.0.1:27001
+Cvar "watervis" is currently "0"
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Turning OFF watervis... (map not flagged as watervised)
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Cvar "watervis" is currently "0"
+FindFile: ./fortress/maps/2fort5r.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/2fort5r.bsp
+Building PHS...
+Average leafs visible / hearable / total: 52 / 161 / 556
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: ./fortress/maps/2fort5r.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: can't find maps/2fort5r.lit
+FindFile: can't find maps/2fort5r.sky
+FindFile: can't find maps/2fort5r.hrt
+Models precacheed: 115/256 [44% usage] (map: 24 others: 91)
+Sounds precacheed: 195/256 [76% usage]
+Edicts used (atm): 137/768 [17% usage]
+FindFile: ./fortress/maps/2fort5r.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/2fort5r.bsp
+Building PHS...
+Average leafs visible / hearable / total: 52 / 161 / 556
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: ./fortress/maps/2fort5r.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Turning OFF watervis... (map not flagged as watervised)
+Looking for any map extra files...
+FindFile: can't find maps/2fort5r.lit
+FindFile: can't find maps/2fort5r.sky
+FindFile: can't find maps/2fort5r.hrt
+Models precacheed: 115/256 [44% usage] (map: 24 others: 91)
+Sounds precacheed: 195/256 [76% usage]
+Edicts used (atm): 137/768 [17% usage]
+Client user-2 <2> connected 127.0.0.1:27001
+-=Shaka[UVM]=- [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "2fort5r" * Time Left: No limit
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+-=Shaka[UVM]=- <2> has joined Team No 2 (Red team)
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <2> has left the game with 0 frags
+Client -=Shaka[UVM]=- <2> removed 127.0.0.1:27001
+Client user-3 <3> connected 127.0.0.1:27001
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <3> has left the game with 0 frags
+Client -=Shaka[UVM]=- <3> removed 127.0.0.1:27001
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Console> allow_download_mmodels 1>
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client user-1 <1> connected 127.0.0.1:27001
+-=Shaka[UVM]=- [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: 0:29:12
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <1> has left the game with 0 frags
+Client -=Shaka[UVM]=- <1> removed 127.0.0.1:27001
+Client -=Shaka[UVM]=- <2> connected 127.0.0.1:63104
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <2> has left the game with 0 frags
+Client -=Shaka[UVM]=- <2> removed 127.0.0.1:63104
+Client -=Shaka[UVM]=- <3> connected 127.0.0.1:63123
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- <3>: hi
+-=Shaka[UVM]=- <3> picks a random team!
+-=Shaka[UVM]=- <3> has joined Team No 1 (Blue team)
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <3> has left the game with 0 frags
+Client -=Shaka[UVM]=- <3> removed 127.0.0.1:63123
+Client -=Shaka[UVM]=- <4> connected 127.0.0.1:60238
+-=Shaka[UVM]=- [FTEquake] has joined the server
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <4> has left the game with 0 frags
+Client -=Shaka[UVM]=- <4> removed 127.0.0.1:60238
+Client user-5 <5> connected 127.0.0.1:63514
+user-5 [FTEquake] has joined the server
+user-5 <5> has joined Team No 1 (Blue team)
+user-5 dropped
+user-5 <5> has left the game with 0 frags
+Client user-5 <5> removed 127.0.0.1:63514
+Client user-6 <6> connected 127.0.0.1:63287
+user-6 [FTEquake] has joined the server
+user-6 <6> has joined Team No 1 (Blue team)
+execute_changelevel()
+
+=========== End Of Game! ===========
+
+Time limit reached!
+Map well6 was played for 30 minutes
+
+============ Results: ==============
+
+Team 1 (Blue)   :   0 points
+Team 2 (Red)    :   0 points
+
+Best Player: None
+Killing Machine: None
+
+====================================
+
+Intermission think.
+FindFile: ./fortress/cpcycle/map2.cfg
+execing cpcycle/map2.cfg
+Map huntedr skipped - minimum players 4 (currently 1)
+FindFile: ./fortress/cpcycle/map3.cfg
+execing cpcycle/map3.cfg
+Map ditch2 skipped - minimum players 7 (currently 1)
+FindFile: ./fortress/cpcycle/map4.cfg
+execing cpcycle/map4.cfg
+Map frontlin skipped - minimum players 9 (currently 1)
+FindFile: ./fortress/cpcycle/map5.cfg
+execing cpcycle/map5.cfg
+Map rock2 skipped - minimum players 10 (currently 1)
+FindFile: ./fortress/cpcycle/map6.cfg
+execing cpcycle/map6.cfg
+Map arenasix skipped - minimum players 11 (currently 1)
+FindFile: ./fortress/cpcycle/map7.cfg
+execing cpcycle/map7.cfg
+Map town4 skipped - minimum players 11 (currently 1)
+FindFile: ./fortress/cpcycle/map8.cfg
+execing cpcycle/map8.cfg
+Map bam4 skipped - minimum players 11 (currently 1)
+FindFile: ./fortress/cpcycle/map9.cfg
+execing cpcycle/map9.cfg
+Map spit skipped - minimum players 11 (currently 1)
+FindFile: ./fortress/cpcycle/map10.cfg
+execing cpcycle/map10.cfg
+Map engbat skipped - minimum players 8 (currently 1)
+FindFile: ./fortress/cpcycle/map11.cfg
+execing cpcycle/map11.cfg
+Map well6 skipped - minimum players 10 (currently 1)
+FindFile: ./fortress/cpcycle/map12.cfg
+execing cpcycle/map12.cfg
+Map z7 skipped - minimum players 10 (currently 1)
+FindFile: ./fortress/cpcycle/map13.cfg
+execing cpcycle/map13.cfg
+Map sewer1p skipped - minimum players 10 (currently 1)
+FindFile: ./fortress/cpcycle/map14.cfg
+execing cpcycle/map14.cfg
+Map dune1 skipped - minimum players 10 (currently 1)
+FindFile: ./fortress/cpcycle/map15.cfg
+execing cpcycle/map15.cfg
+Map aztec1 skipped - minimum players 11 (currently 1)
+FindFile: ./fortress/cpcycle/map16.cfg
+execing cpcycle/map16.cfg
+Map xpress3 skipped - minimum players 4 (currently 1)
+FindFile: ./fortress/cpcycle/map17.cfg
+execing cpcycle/map17.cfg
+Map canyon1 skipped - minimum players 8 (currently 1)
+FindFile: ./fortress/cpcycle/map18.cfg
+execing cpcycle/map18.cfg
+Map rock1 skipped - minimum players 10 (currently 1)
+FindFile: ./fortress/cpcycle/map19.cfg
+execing cpcycle/map19.cfg
+Map border1 skipped - minimum players 4 (currently 1)
+FindFile: ./fortress/cpcycle/map20.cfg
+execing cpcycle/map20.cfg
+Map tomb3 skipped - minimum players 4 (currently 1)
+FindFile: ./fortress/cpcycle/map21.cfg
+execing cpcycle/map21.cfg
+Map qdeth3 skipped - minimum players 7 (currently 1)
+FindFile: ./fortress/cpcycle/map22.cfg
+execing cpcycle/map22.cfg
+Map well1 skipped - minimum players 10 (currently 1)
+FindFile: ./fortress/cpcycle/map23.cfg
+execing cpcycle/map23.cfg
+Map street1 skipped - minimum players 10 (currently 1)
+FindFile: ./fortress/cpcycle/map24.cfg
+execing cpcycle/map24.cfg
+Map tf2k skipped - minimum players 10 (currently 1)
+FindFile: ./fortress/cpcycle/map25.cfg
+execing cpcycle/map25.cfg
+Map caverns skipped - minimum players 10 (currently 1)
+FindFile: ./fortress/cpcycle/map26.cfg
+execing cpcycle/map26.cfg
+
+Loading town2 map file...
+FindFile: ./fortress/cpcycle/standard.cfg
+execing cpcycle/standard.cfg
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+FindFile: can't find cpcycle/town2.cfg
+couldn't exec cpcycle/town2.cfg
+Console> allow_download_mmodels 1>
+FindFile: ./fortress/maps/town2.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/town2.bsp
+Building PHS...
+Average leafs visible / hearable / total: 242 / 937 / 1218
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/town2.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: can't find maps/town2.lit
+FindFile: can't find maps/town2.sky
+FindFile: can't find maps/town2.hrt
+Models precacheed: 128/256 [50% usage] (map: 32 others: 96)
+Sounds precacheed: 195/256 [76% usage]
+Edicts used (atm): 164/768 [21% usage]
+user-6 [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "town2" * Time Left: 0:29:57
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+FindFile: can't find skins/tf_sold.pcx
+Couldn't download skins/tf_sold.pcx to user-6
+user-6 <6> has joined Team No 1 (Blue team)
+No user-6 <6>, you are supposed to THROW the grenade!
+user-6 <6> suicides
+Reteam Timer Disabled Due to Nonstandard Map
+user-6 dropped
+user-6 <6> has left the game with -1 frags
+Client user-6 <6> removed 127.0.0.1:63287
+Client user-7 <7> connected 127.0.0.1:63237
+user-7 [FTEquake] has joined the server
+user-7 <7> has joined Team No 3 (Yellow team)
+user-7 dropped
+user-7 <7> has left the game with 0 frags
+Client user-7 <7> removed 127.0.0.1:63237
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Console> allow_download_mmodels 1>
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client user-1 <1> connected 127.0.0.1:54073
+user-1 [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: 0:29:51
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+user-1 <1> has joined Team No 1 (Blue team)
+user-1 has been kicked for changing color.
+user-1 <1> has left the game with 0 frags
+Client user-1 <1> removed 127.0.0.1:54073
+Client user-2 <2> connected 127.0.0.1:63391
+user-2 [FTEquake] has joined the server
+user-2 dropped
+user-2 <2> has left the game with 0 frags
+Client user-2 <2> removed 127.0.0.1:63391
+Client user-3 <3> connected 127.0.0.1:50716
+user-3 [FTEquake] has joined the server
+user-3 <3> has joined Team No 1 (Blue team)
+user-3 dropped
+user-3 <3> has left the game with 0 frags
+Client user-3 <3> removed 127.0.0.1:50716
+Client user-4 <4> connected 127.0.0.1:57947
+user-4 [FTEquake] has joined the server
+user-4 <4> picks a random team!
+user-4 <4> has joined Team No 1 (Blue team)
+user-4 dropped
+user-4 <4> has left the game with 0 frags
+Client user-4 <4> removed 127.0.0.1:57947
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Console> allow_download_mmodels 1>
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client user-1 <1> connected 127.0.0.1:61627
+user-1 [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: 0:27:38
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+user-1 <1> picks a random team!
+user-1 <1> has joined Team No 2 (Red team)
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Console> allow_download_mmodels 1>
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client user-1 <1> connected 73.66.211.247:27001
+Client user-2 <2> connected 98.224.73.58:27001
+FindFile: ./fortress/maps/well6.bsp
+Downloading maps/well6.bsp to user-1
+FindFile: ./fortress/maps/well6.bsp
+Downloading maps/well6.bsp to user-2
+Client user-3 <3> connected 67.182.104.169:27001
+Client user-4 <4> connected 67.182.102.23:27001
+Client user-5 <5> connected 98.238.210.248:27001
+FindFile: ./fortress/maps/well6.bsp
+Downloading maps/well6.bsp to user-3
+FindFile: ./fortress/maps/well6.bsp
+Downloading maps/well6.bsp to user-4
+FindFile: ./fortress/maps/well6.bsp
+Downloading maps/well6.bsp to user-5
+Client user-6 <6> connected 67.182.51.249:27001
+FindFile: ./fortress/maps/well6.bsp
+Downloading maps/well6.bsp to user-6
+net address      : 192.168.1.89:27500
+cpu utilization  :   0%
+avg response time: 0 ms
+packets/frame    :  1.56 (11)
+frags userid address         name            rate ping drop  qport
+----- ------ --------------- --------------- ---- ---- ----- -----
+    0      1 73.66.211.247   user-1          CONNECTING
+    0      2 98.224.73.58    user-2          CONNECTING
+    0      3 67.182.104.169  bell            CONNECTING
+    0      4 67.182.102.23   user-4          CONNECTING
+    0      5 98.238.210.248  user-5          CONNECTING
+    0      6 67.182.51.249   user-6          CONNECTING
+
+Extremity <4>: yo
+Client user-7 <7> connected 73.48.172.174:27001
+FindFile: ./fortress/maps/well6.bsp
+Downloading maps/well6.bsp to user-7
+user-2 <2>: wassap
+Client user-8 <8> connected 127.0.0.1:58218
+user-8 [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: 0:28:44
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+FindFile: can't find skins/tf_sold.pcx
+Couldn't download skins/tf_sold.pcx to user-8
+user-5 <5>: hola
+user-7 <7>: hello
+Extremity (Vienna) <4>: I'm IS-50 Famous!
+Muia <2>: Gamer time
+user-8 <8> has joined Team No 2 (Red team)
+Extremity (Vienna) <4>: Time to pwn!
+Muia <2>: This download is so fast
+Extremity (Vienna) <4>: Don't tell everyone!
+Extremity (Vienna) <4>: Lock and load!
+user-7 <7>: the download is slow for me
+Muia <2>: the shadows are amazing
+Marksolomonik <5>: I'm at 18%, I think it's slow for everyone
+user-7 <7>: mines is at 14
+Extremity (Vienna) <4>: I'm at 22%, I'm a weiner!
+Muia <2>: 24 rekt
+user-7 <7>: oof
+Muia <2>: emissive lighting? epic
+Client user-9 <9> connected 73.192.173.31:27001
+FindFile: ./fortress/maps/well6.bsp
+Downloading maps/well6.bsp to user-9
+net address      : 192.168.1.89:27500
+cpu utilization  :   0%
+avg response time: 0 ms
+packets/frame    :  2.21 (35)
+frags userid address         name            rate ping drop  qport
+----- ------ --------------- --------------- ---- ---- ----- -----
+    0      1 73.66.211.247   user-1          CONNECTING
+    0      2 98.224.73.58    Muia            CONNECTING
+    0      3 67.182.104.169  bell            CONNECTING
+    0      4 67.182.102.23   Extremity (Vienna)CONNECTING
+    0      5 98.238.210.248  Marksolomonik   CONNECTING
+    0      6 67.182.51.249   user-6          CONNECTING
+    0      7 73.48.172.174   user-7          CONNECTING
+    0      8 127.0.0.1       user-8            79  100 0.0 24453
+    0      9 73.192.173.31   user-9          CONNECTING
+
+Muia dropped
+Client Muia <2> removed 98.224.73.58:27001
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Console> allow_download_mmodels 1>
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down. (Server restart, shell must launch server again)
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Console> allow_download_mmodels 1>
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down. (Server restart, shell must launch server again)
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Console> allow_download_mmodels 1>
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client user-1 <1> connected 127.0.0.1:58296
+user-1 [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: 0:29:44
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+user-1 <1> changed name to -=Shaka[UVM]=- <1>
+-=Shaka[UVM]=- <1> has joined Team No 1 (Blue team)
+-=Shaka[UVM]=- <1> suicides
+-=Shaka[UVM]=- dropped
+-=Shaka[UVM]=- <1> has left the game with -1 frags
+Client -=Shaka[UVM]=- <1> removed 127.0.0.1:58296
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down. (Server restart, shell must launch server again)
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Console> allow_download_mmodels 1>
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client user-1 <1> connected 98.238.210.248:49712
+user-1 [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: 0:29:17
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+user-1 <1> has joined Team No 1 (Blue team)
+user-1 dropped
+user-1 <1> has left the game with 0 frags
+Client user-1 <1> removed 98.238.210.248:49712
+Client user-2 <2> connected 98.238.210.248:65134
+user-2 [FTEquake] has joined the server
+user-2 <2> has joined Team No 1 (Blue team)
+user-2 dropped
+user-2 <2> has left the game with 0 frags
+Client user-2 <2> removed 98.238.210.248:65134
+Console> qa
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Console> allow_download_mmodels 1>
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client user-1 <1> connected 127.0.0.1:64294
+user-1 [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: 0:29:57
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+user-1 <1> has joined Team No 2 (Red team)
+user-1 dropped
+user-1 <1> has left the game with 0 frags
+Client user-1 <1> removed 127.0.0.1:64294
+Pinned messages were saved to "./fortress/pinmsgs.pm" (on server)
+Writing ./fortress/listip.cfg.
+Shutting down. (Server restart, shell must launch server again)
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 196/256 [76% usage]
+Edicts used (atm): 149/768 [19% usage]
+Console> allow_download_mmodels 1>
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client user-1 <1> connected 127.0.0.1:50224
+user-1 [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: 0:29:41
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+user-1 <1> has joined Team No 1 (Blue team)
+user-1 <1> suicides
+user-1 <1>: qyut
+user-1 dropped
+user-1 <1> has left the game with -1 frags
+Client user-1 <1> removed 127.0.0.1:50224
+Console> quiut
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003

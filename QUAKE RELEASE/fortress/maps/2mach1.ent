@@ -1,0 +1,248 @@
+{
+"message" "              Two Mach\n            ¾V¼…Óome’ne…\n    http://someone.tfdomain.com/\n  Custom entities by PhrostÂùôå\n"
+"classname" "worldspawn"
+"worldtype" "0"
+"has_holo" "1"
+}
+{
+"classname" "i_t_g"
+"origin" "154 -421 300"
+"skin" "1"
+"mdl" "progs/wave.mdl"
+"angle" "70"
+}
+{
+"classname" "i_t_g"
+"origin" "-612 -421 300"
+"skin" "2"
+"mdl" "progs/wave.mdl"
+"angle" "70"
+}
+{
+"classname" "info_player_start"
+"origin" "0 -192 64"
+"angle" "90"
+}
+{
+"model" "*1"
+"sounds" "2"
+"classname" "func_plat"
+"height" "224"
+}
+{
+"model" "*2"
+"classname" "func_plat"
+"height" "262"
+}
+{
+"g_a" "1"
+"ammo_shells" "100"
+"netname" "backpack"
+"classname" "i_t_g"
+"origin" "0 -2024 311"
+"no_grenades_1" "1"
+"armortype" "0.8"
+"noise" "weapons/lock4.wav"
+"wait" "1"
+"g_e" "1"
+"ammo_medikit" "100"
+"ammo_nails" "100"
+"armorvalue" "300"
+"health" "200"
+"team_no" "2"
+"ammo_cells" "400"
+"mdl" "progs/backpack.mdl"
+"ammo_rockets" "100"
+"ammo_detpack" "3"
+"no_grenades_1" "6"
+"no_grenades_2" "6"
+}
+{
+"g_a" "1"
+"ammo_shells" "100"
+"netname" "backpack"
+"classname" "i_t_g"
+"origin" "0 1130 311"
+"no_grenades_1" "1"
+"armortype" "0.8"
+"noise" "weapons/lock4.wav"
+"wait" "1"
+"g_e" "1"
+"ammo_medikit" "100"
+"ammo_nails" "100"
+"armorvalue" "300"
+"health" "200"
+"team_no" "1"
+"ammo_cells" "400"
+"mdl" "progs/backpack.mdl"
+"ammo_rockets" "100"
+"ammo_detpack" "3"
+"no_grenades_1" "6"
+"no_grenades_2" "6"
+}
+{
+"classname" "i_p_t"
+"origin" "-160 1120 320"
+"team_no" "1"
+"angle" "270"
+}
+{
+"classname" "i_p_t"
+"origin" "-64 1120 320"
+"team_no" "1"
+"angle" "270"
+}
+{
+"classname" "i_p_t"
+"origin" "64 1120 320"
+"team_no" "1"
+"angle" "270"
+}
+{
+"classname" "i_p_t"
+"origin" "128 1120 320"
+"team_no" "1"
+"angle" "270"
+}
+{
+"n_s_c" "Enemy flag: carried by"
+"display_item_status1" "1"
+"display_item_status2" "2"
+"impulse" "64"
+"b_n" "Cap, kill, have fun\n"
+"t_s_h" "Your flag: base."
+"classname" "info_tfdetect"
+"origin" "0 16 0"
+"t_s_c" "Your flag: carried by"
+"n_s_h" "Enemy flag: base."
+"hook_out" "1"
+"b_t" "Mach Death by ¾V¼…Óome’ne…\n== CHOOSE: ==\n\n1 Blue\n2 Red \n"
+"n_s_m" "Enemy flag: down."
+"t_s_m" "Your flag: down."
+}
+{
+"g_a" "1"
+"n_t" " Captured the Enemy flag!\n"
+"items_allowed" "1"
+"owned_by" "2"
+"netname" "Team 2 Cap"
+"message" "You Captured the Enemy flag!\n"
+"axhitme" "1"
+"b_n" "Your flag was Captured!\n"
+"classname" "i_t_g"
+"origin" "0 -2208 160"
+"noise" "items/cap2.wav"
+"b_t" "Your team Captured the Enemy flag!\n"
+"g_e" "19"
+"count" "10"
+"frags" "10"
+"team_no" "2"
+}
+{
+"g_a" "1"
+"n_t" " Captured the Enemy flag!\n"
+"items_allowed" "2"
+"netname" "Team 1 Cap"
+"message" "You Captured the Enemy flag!\n"
+"axhitme" "2"
+"b_n" "Your flag was Captured!\n"
+"classname" "i_t_g"
+"origin" "0 1312 160"
+"noise" "items/cap1.wav"
+"b_t" "Your team Captured the Enemy flag!\n"
+"g_e" "19"
+"count" "10"
+"frags" "10"
+"team_no" "1"
+}
+{
+"classname" "info_intermission"
+"origin" "64 -320 128"
+"mangle" "0 100 0"
+}
+{
+"model" "*3"
+"sounds" "2"
+"classname" "func_plat"
+"height" "224"
+}
+{
+"model" "*4"
+"classname" "func_plat"
+"height" "262"
+}
+{
+"classname" "i_p_t"
+"origin" "-160 -2016 320"
+"team_no" "2"
+"angle" "90"
+}
+{
+"classname" "i_p_t"
+"origin" "-64 -2016 320"
+"team_no" "2"
+"angle" "90"
+}
+{
+"classname" "i_p_t"
+"origin" "64 -2016 320"
+"team_no" "2"
+"angle" "90"
+}
+{
+"classname" "i_p_t"
+"origin" "128 -2016 320"
+"team_no" "2"
+"angle" "90"
+}
+{
+"g_a" "693"
+"owned_by" "2"
+"message" "You have the Enemy flag!\nTake it home!"
+"netname" "Red Flag"
+"classname" "item_tfgoal"
+"origin" "0 -2208 154"
+"noise" "ogre/ogwake.wav"
+"b_t" "\n\n\nYour team has the Enemy flag!\n"
+"d_t" "The Enemy lost Your flag!\n"
+"b_o" "\n\n\nYour flag has been Taken!\n"
+"goal_no" "2"
+"noise3" "Your flag returned to base!\n"
+"items" "262144"
+"delay" "30"
+"noise4" "The Enemy flag returned to base!\n"
+"team_no" "1"
+"pausetime" "30"
+"skin" "2"
+"mdl" "progs/tf_flag.mdl"
+"d_n" "Your team lost the Enemy flag!\n"
+"angle" "90"
+}
+{
+"g_a" "693"
+"owned_by" "1"
+"message" "You have the Enemy flag!\nTake it Home!"
+"netname" "Blue Flag"
+"classname" "item_tfgoal"
+"origin" "0 1312 160"
+"noise" "shambler/ssight.wav"
+"b_t" "\n\n\nYour team has the Enemy flag!\n"
+"b_o" "\n\n\nYour flag has been Taken!\n"
+"d_t" "The enemy lost Your flag!\n"
+"goal_no" "1"
+"noise3" "Your flag was returned to base!\n"
+"items" "131072"
+"delay" "30"
+"noise4" "The Enemy flag was returned to base!\n"
+"team_no" "2"
+"pausetime" "30"
+"skin" "1"
+"mdl" "progs/tf_flag.mdl"
+"d_n" "Your team lost the Enemy flag!\n"
+"angle" "270"
+}
+{
+"model" "*5"
+"classname" "func_plat"
+"height" "220"
+}

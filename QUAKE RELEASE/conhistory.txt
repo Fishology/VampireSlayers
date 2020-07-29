@@ -1,0 +1,31 @@
+connect 107.201.45.91
+connect 107.201.45.91
+custom
+bloom
+custom
+its a little dark
+custom
+kill
+bind alt sentry
+kill
+kill
+custom
+connect connect 107.201.45.91
+connect 107.201.45.91
+connect local
+
+
+connect localhost
+custom
+kill
+renameclient bob
+kill
+qyut
+quit
+connect 107.201.25.91
+stop
+connect 107.201.45.91
+custom
+connect 107.201.45.901
+connect 107.201.45.91
+connect 107.201.45.91
