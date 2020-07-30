@@ -4637,3 +4637,231 @@ Sending heartbeat to 192.246.40.37:27004
 Sending heartbeat to 136.243.9.253:27000
 Sending heartbeat to 213.221.161.112:27000
 Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 202/256 [78% usage]
+Edicts used (atm): 149/768 [19% usage]
+Console> allow_download_mmodels 1>
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client user-1 <1> connected 127.0.0.1:52833
+user-1 [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: 0:29:53
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+user-1 <1> has joined Team No 1 (Blue team)
+user-1 dropped
+user-1 <1> has left the game with 0 frags
+Client user-1 <1> removed 127.0.0.1:52833
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 205/256 [80% usage]
+Edicts used (atm): 149/768 [19% usage]
+Console> allow_download_mmodels 1>
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client user-1 <1> connected 127.0.0.1:64320
+user-1 [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: 0:29:55
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+user-1 <1> has joined Team No 1 (Blue team)
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+user-1 dropped
+user-1 <1> has left the game with 0 frags
+Client user-1 <1> removed 127.0.0.1:64320
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 206/256 [80% usage]
+Edicts used (atm): 149/768 [19% usage]
+Console> allow_download_mmodels 1>
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client user-1 <1> connected 127.0.0.1:57968
+user-1 [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: 0:29:55
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+user-1 <1> picks a random team!
+user-1 <1> has joined Team No 2 (Red team)
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+user-1 dropped
+user-1 <1> has left the game with 0 frags
+Client user-1 <1> removed 127.0.0.1:57968
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003
+FindFile: ./fortress/cpsvdefs.cfg
+execing cpsvdefs.cfg
+Pinned messages retrieved from "./fortress/pinmsgs.pm" (on server)
+FindFile: ./fortress/listip.cfg
+execing listip.cfg
+FindFile: ./fortress/maps/well6.bsp
+FindFile: ./fortress/prozac.dat
+Loaded Version7+ qwprogs.dat, original concept by KK.
+FindFile: ./fortress/maps/well6.bsp
+Building PHS...
+Average leafs visible / hearable / total: 110 / 358 / 1433
+FindFile: ./fortress/progs/player.mdl
+PackFile: ./id1/pak3.pak : progs/eyes.mdl
+FindFile: can't find maps/well6.ent
+INFO: Prozac-specific localinfos retrieved and initialized.
+Looking for any map extra files...
+FindFile: ./fortress/maps/well6.lit
+Map Info> Coloured lighting for this map is avaliable. Type "cmd special getlit" to download it.
+FindFile: can't find maps/well6.sky
+FindFile: can't find maps/well6.hrt
+Models precacheed: 142/256 [55% usage] (map: 50 others: 92)
+Sounds precacheed: 206/256 [80% usage]
+Edicts used (atm): 149/768 [19% usage]
+Console> allow_download_mmodels 1>
+Color Console enabled, using Win32 console API
+Command prompt and clean output enabled.
+Type "help" for informative commands.
+Updated needpass.
+Client user-1 <1> connected 127.0.0.1:60730
+user-1 [FTEquake] has joined the server
+
+======== Main Game Settings ========
+Map: "well6" * Time Left: 0:29:54
+Custom: Enabled * Money: 10000
+Environment: Standard World
+
+user-1 <1> picks a random team!
+user-1 <1> has joined Team No 1 (Blue team)
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+SV_StartSound: player/stake_hit_world.wav not precacheed
+user-1 dropped
+user-1 <1> has left the game with 0 frags
+Client user-1 <1> removed 127.0.0.1:60730
+Shutting down.
+Sending heartbeat to 192.246.40.37:27000
+Sending heartbeat to 203.55.240.100:27000
+Sending heartbeat to 192.246.40.37:27004
+Sending heartbeat to 136.243.9.253:27000
+Sending heartbeat to 213.221.161.112:27000
+Sending heartbeat to 192.246.40.37:27003

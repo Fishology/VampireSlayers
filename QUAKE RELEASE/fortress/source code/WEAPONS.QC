@@ -388,7 +388,7 @@ void() W_FireAxe =
 	}
 	else
 	{	// hit wall
-		sound (self, #CHAN_WEAPON, "player/axhit2.wav", 1, #ATTN_NORM);
+		sound (self, #CHAN_WEAPON, "player/stake_hit_world.wav", 1, #ATTN_NORM);
 		WriteByte (#MSG_BROADCAST, #SVC_TEMPENTITY);
 		WriteByte (#MSG_BROADCAST, #TE_GUNSHOT);
 	#ifdef QUAKE_WORLD
@@ -470,7 +470,7 @@ void() W_FireSpanner =
 			}
 			else
 			{
-				sound (self, #CHAN_WEAPON, "player/axhit2.wav", 1, #ATTN_NORM);
+				sound (self, #CHAN_WEAPON, "player/stake_hit_world.wav", 1, #ATTN_NORM);
 				WriteByte (#MSG_BROADCAST, #SVC_TEMPENTITY);
 				WriteByte (#MSG_BROADCAST, #TE_GUNSHOT);
 			#ifdef QUAKE_WORLD
@@ -592,7 +592,7 @@ void() W_FireSpanner =
 	}
 	else // hit wall
 	{	
-		sound (self, #CHAN_WEAPON, "player/axhit2.wav", 1, #ATTN_NORM);
+		sound (self, #CHAN_WEAPON, "player/stake_hit_world.wav", 1, #ATTN_NORM);
 		WriteByte (#MSG_BROADCAST, #SVC_TEMPENTITY);
 		WriteByte (#MSG_BROADCAST, #TE_GUNSHOT);
 	#ifdef QUAKE_WORLD
@@ -1066,7 +1066,7 @@ void(float inAuto) W_FireMedikit =
 	{	
 		if (inAuto) return; //Don't click for automedic
 		// hit wall
-		sound (self, #CHAN_WEAPON, "player/axhit2.wav", 1, #ATTN_NORM);
+		sound (self, #CHAN_WEAPON, "player/stake_hit_world.wav", 1, #ATTN_NORM);
 		WriteByte (#MSG_BROADCAST, #SVC_TEMPENTITY);
 		WriteByte (#MSG_BROADCAST, #TE_GUNSHOT);
 	#ifdef QUAKE_WORLD
@@ -1165,7 +1165,7 @@ void() W_FireBioweapon =
 	}
 	else
 	{	// hit wall
-		sound (self, #CHAN_WEAPON, "player/axhit2.wav", 1, #ATTN_NORM);
+		sound (self, #CHAN_WEAPON, "player/stake_hit_world.wav", 1, #ATTN_NORM);
 		WriteByte (#MSG_BROADCAST, #SVC_TEMPENTITY);
 		WriteByte (#MSG_BROADCAST, #TE_GUNSHOT);
 	#ifdef QUAKE_WORLD
@@ -4122,7 +4122,8 @@ void() W_Attack =
 		//else 
 			Attack_Finished(0.5);
 		
-		sound (self, #CHAN_WEAPON, "weapons/ax1.wav", 1, #ATTN_NORM);
+		//sound (self, #CHAN_WEAPON, "weapons/ax1.wav", 1, #ATTN_NORM);
+		sound (self, #CHAN_WEAPON, "weapons/stake_swoosh.wav", 1, #ATTN_NORM);
 		r = random();
 		if (r < 0.25)
 			player_axe1 ();

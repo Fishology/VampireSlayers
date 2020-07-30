@@ -1129,7 +1129,7 @@ local float 	rs;
 	if (self.axhitme == 1)
 	{
 		self.axhitme = 0;
-		sound (self, #CHAN_VOICE, "player/axhit1.wav", 1, #ATTN_NORM);
+		sound (self, #CHAN_VOICE, "player/stake_it_meat.wav", 1, #ATTN_NORM);
 		return;
 	}
 

@@ -303,7 +303,7 @@ void () Anchor_Grapple =
 		return;
 	}
 
-	sound (self, #CHAN_WEAPON, "player/axhit2.wav", 1, #ATTN_NORM);
+	sound (self, #CHAN_WEAPON, "player/stake_hit_world.wav", 1, #ATTN_NORM);
 	//WK Only deal the initial damage to buttons so we can open stuff
 	if (other.takedamage)
 		if (other.classname == "func_button")

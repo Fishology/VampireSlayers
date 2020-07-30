@@ -334,6 +334,13 @@ void() worldspawn =
 	precache_sound ("player/death5.wav");
 
 // ax sounds	
+
+	precache_sound ("weapons/za_warudo.wav");
+	precache_sound ("weapons/stake_hit.wav");
+	precache_sound ("weapons/stake_hit_meat.wav");
+	precache_sound ("weapons/stake_hit_world.wav");
+	precache_sound ("weapons/stake_swoosh.wav");
+
 	precache_sound ("weapons/ax1.wav"); 		// ax swoosh
 	precache_sound ("player/axhit1.wav");		// ax hit meat
 	precache_sound ("player/axhit2.wav");		// ax hit world
