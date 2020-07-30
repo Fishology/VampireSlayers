@@ -44,3 +44,5 @@ custom
 kill
 quit
 quit
+quit
+quit

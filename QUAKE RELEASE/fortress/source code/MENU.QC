@@ -282,7 +282,7 @@ float menu_sounds;
 void() MenuPrecache =
 {
 	#ifdef MENU_SOUNDS
-
+	precache_sound("cutfmenu/buy2.wav");
 	precache_sound("cutfmenu/buy.wav");
 	precache_sound("cutfmenu/oof.wav");
 	precache_sound("cutfmenu/select.wav");
@@ -306,9 +306,9 @@ void(float sample) CuTFMenuSound =
 		return;
 
 	if (sample == #MENUSOUND_BROWSE)
-		stuffcmd(self,"playvol cutfmenu/select.wav 0.50\n"); // 0.4
+		stuffcmd(self,"playvol cutfmenu/select.wav 0.60\n"); // 0.4
 	else if (sample == #MENUSOUND_BUY)
-		stuffcmd(self,"playvol cutfmenu/buy.wav 0.40\n"); // 0.4
+		stuffcmd(self,"playvol cutfmenu/buy2.wav 0.40\n"); // 0.4
 	else if (sample == #MENUSOUND_SELL)
 		stuffcmd(self,"playvol cutfmenu/sell.wav 0.5\n"); // 0.4
 	else if (sample == #MENUSOUND_WRONG)
