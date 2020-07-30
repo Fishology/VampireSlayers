@@ -691,9 +691,9 @@ void() Menu_Team =
 	else if (number_of_teams == 2)
 	{
 		if (agr)
-			CenterPrint2(self, " Γθοοσε Ωους Τεαν \n\n.. Team One  \n.. Team Two  \n              \n              \n\n.. Αυτο Τεαν \n", "\n\n Ατταγλεςσ Ηο Òεδ \n");
+			CenterPrint2(self, " Γθοοσε Ωους Τεαν \n\n.. Vampires         \n.. Vampire Slayers  \n              \n              \n\n.. Αυτο Τεαν \n", "\n\n Ατταγλεςσ Ηο Òεδ \n");
 		else
-			CenterPrint(self, " Γθοοσε Ωους Τεαν \n\n.. Team One  \n.. Team Two  \n              \n              \n\n.. Αυτο Τεαν \n");
+			CenterPrint(self, " Γθοοσε Ωους Τεαν \n\n.. Vampires         \n.. Vampire Slayers  \n              \n              \n\n.. Αυτο Τεαν \n");
 	}
 	else if (number_of_teams == 3)
 	{
@@ -3023,7 +3023,7 @@ void() Menu_EngineerFix_Tesla2 =
 	//l2 = ".. Cloaking Tesla            ­ 2u";
 	l2 = ".. Kevlar Armor              ­ 1u\n.. Blast Armor               ­ 1u\n.. Asbestos Armor            ­ 1u\n.. Make TeslaTurret(tm)      ­ 1u\n.. Improved Targeting System ­ 1u\n.. Cloaking Device           ­ 1u\n.. Repair and Recharge           \n.. Dismantle                     \n.. Ξοτθιξη                       \n\n.. Normal Upgrades\n";
 	//l2 = ".. Kevlar Armor              ­ 1u\n.. Blast Armor               ­ 1u\n.. Asbestos Armor            ­ 1u\n.. Make TeslaTurret(tm)      ­ 1u\n.. Improved Targeting System ­ 1u\n\n.. Repair and Recharge           \n.. Dismantle                     \n.. Ξοτθιξη                       \n\n.. Normal Upgrades\n";
-	CenterPrint4(self, "Tesla Νοδιζιγατιοξ Μαβ: ",l1, " Upgrades Left\n\n€‚ Misc Tesla Upgrades €‚\n\n" ,l2);
+	CenterPrint4(self, "Tesla Νοδιζιγατιοξ Μαβ: ",l1, " Upgrades Left\n\n€‚ Misc Tesla Upgrades €‚\n\n" ,l2);
 };
 void(float inp) Menu_EngineerFix_Tesla_Input2 =
 {

@@ -29,3 +29,14 @@ custom
 connect 107.201.45.901
 connect 107.201.45.91
 connect 107.201.45.91
+quit
+quit
+quit
+map
+name
+map name
+map
+quit
+quit
+quit
+quit
