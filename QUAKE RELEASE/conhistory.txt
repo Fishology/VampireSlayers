@@ -52,3 +52,24 @@ quit
 quit
 quit
 quit
+quit
+stop
+quit
+stop
+quit
+quit
+quit
+quit
+quit
+quit
+quit
+quit
+QUIT
+QUIT
+QUIT
+quit
+quit
+quit
+team 1
+quit
+quit

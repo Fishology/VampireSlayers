@@ -80,15 +80,15 @@ void(float cost, float type) BuyCuTF2;
 
 //Page 4 - Other Weapons
 #define STR_GRENADELAUNCHER 	"Grenade Set     "
-#define STR_LIGHTNING			"Thunderbolt     "
+#define STR_LIGHTNING			"Vampire Gun     "
 #define STR_LASERCANNON 		"Laser Cannon    "
-#define STR_MAUSER			"Mauser          "
+#define STR_MAUSER				"Mauser          "
 #define STR_SNG 				"Super Nailgun   "
 #define STR_RAILGUN 			"Rail Gun        "
 #define STR_NAILGUN 			"Nail Gun        "
 
 #define COST_GRENADELAUNCHER	2200
-#define COST_LIGHTNING			2200
+#define COST_LIGHTNING			3000
 #define COST_LASERCANNON		1100
 #define COST_MAUSER 			2400
 #define COST_SNG				 600
@@ -115,7 +115,7 @@ void(float cost, float type) BuyCuTF2;
 // PAGE 6 - Leg Enhancements
 #define STR_SPEED1			   "Cheetah         "
 #define STR_SPEED2			   "Cougar          "
-#define STR_SPEED3			   "White Rhino     "
+#define STR_SPEED3			   "Vampire Legs    "
 #define STR_SPEED4			   "Scrub Jay       "
 #define STR_SPEED5			   "KGB Officer     "
 #define STR_SPEED6			   "Black Mamba     "
@@ -146,7 +146,7 @@ void(float cost, float type) BuyCuTF2;
 #define COST_HP7				4500
 
 // PAGE 8 - Special Armors & Ammo
-#define STR_CERAMIC 		   "Ceramic Armor   "
+#define STR_CERAMIC 		   "Holy Mail       "
 #define STR_GEL 			   "Impact Armor    "
 #define STR_ASBESTOS		   "Asbestos Armor  "
 #define STR_KEVLAR		  	   "Kevlar Armor    "
@@ -154,7 +154,7 @@ void(float cost, float type) BuyCuTF2;
 #define STR_FULLARMOUR		   "Full Armour     "
 #define STR_ARMOR_PIERCING	   "«Armor Piercing "
 
-#define COST_CERAMIC			975
+#define COST_CERAMIC			1500
 #define COST_GEL			 	625 //WK 4-8-7 It's "GEL", not GET. =)
 #define COST_ASBESTOS			750
 #define COST_KEVLAR 			1200
@@ -183,7 +183,7 @@ void(float cost, float type) BuyCuTF2;
 #define STR_SENTRYUPGRADE	   "«Sentry Upgrade "
 #define STR_TESLACOIL		   "Tesla Coil      "
 #define STR_TESLAUPGRADE	   "«Tesla Upgrade  "
-#define STR_SENSOR		   "Motion Sensor   "
+#define STR_SENSOR		   	   "Motion Sensor   "
 #define STR_TELEPORTER		   "Teleporter Pads "
 
 #define COST_SPANNER			1200
@@ -197,7 +197,7 @@ void(float cost, float type) BuyCuTF2;
 // PAGE 11 - Engineering 2
 #define STR_SCANNER 		   "Scanner         "
 #define STR_AUTOSCANNER 	   "«Auto-Scanner   "
-#define STR_JAMMER		   "Scanner Jammer  "
+#define STR_JAMMER		   	   "Scanner Jammer  "
 #define STR_DISPENSER		   "Dispenser       "
 #define STR_SECURITYCAMERA	   "Security Camera "
 #define STR_FIELDGEN		   "Field Generator "
@@ -211,7 +211,7 @@ void(float cost, float type) BuyCuTF2;
 
 // PAGE 12 - Combat Grenades
 #define STR_GR_NORMAL		   "Normal          "
-#define STR_GR_NAPALM		   "Napalm          "
+#define STR_GR_NAPALM		   "Holy Water      "
 #define STR_GR_GAS		   "Gas             "
 #define STR_GR_EMP		   "EMP             "
 #define STR_GR_FRAG 		   "Frag            "

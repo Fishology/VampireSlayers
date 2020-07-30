@@ -159,6 +159,8 @@ void(vector src, vector endpos) BulletTraceline;
 // called by worldspawn
 void() W_Precache =
 {
+	
+	precache_sound ("weapons/blood_sound3.wav");
 	precache_sound ("weapons/stake_hit_world.wav");
 	precache_sound ("weapons/stake_hit_meat2.wav");
 	precache_sound ("weapons/r_exp3.wav");	// new rocket explosion
@@ -2596,6 +2598,7 @@ void(vector p1, vector p2, entity from, float damage) LightningDamage =
 {
 	local entity		e1, e2;
 	local vector		f;
+	local float			suck;
 	
 	f = p2 - p1;
 	normalize (f);
@@ -2614,6 +2617,11 @@ void(vector p1, vector p2, entity from, float damage) LightningDamage =
 	deathmsg = #DMSG_LIGHTNING;
 	if (trace_ent.takedamage)
 	{
+		suck = 0.25;
+		if (trace_ent.team_no != self.team_no) {
+			if (self.health + damage*suck > self.max_health) self.health = self.max_health;
+			else self.health = self.health + damage*suck;
+		}
 		#ifdef QUAKE_WORLD
 			LightningHit (from, damage);
 		#else
@@ -2689,7 +2697,8 @@ void() W_FireLightning =
 
 	if (self.t_width < time)
 	{
-		sound (self, #CHAN_WEAPON, "weapons/lhit.wav", 1, #ATTN_NORM);
+		//sound (self, #CHAN_WEAPON, "weapons/lhit.wav", 1, #ATTN_NORM);
+		sound (self, #CHAN_WEAPON, "weapons/blood_sound3.wav", 1, #ATTN_NORM);
 		self.t_width = time + 0.6;
 	}
 
@@ -2751,7 +2760,8 @@ void() W_FireLightning =
 	traceline (org, org + v_forward*600, #TL_BSP_ONLY, self);
 
 	WriteByte (#MSG_BROADCAST, #SVC_TEMPENTITY);
-	WriteByte (#MSG_BROADCAST, #TE_LIGHTNING2);
+	//================================================================= Lightning graphic change!
+	WriteByte (#MSG_BROADCAST, #TE_LIGHTNING1);
 	WriteEntity (#MSG_BROADCAST, self);
 	WriteCoord (#MSG_BROADCAST, org_x);
 	WriteCoord (#MSG_BROADCAST, org_y);
