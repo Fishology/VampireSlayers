@@ -40,3 +40,7 @@ quit
 quit
 quit
 quit
+custom
+kill
+quit
+quit
