@@ -338,6 +338,7 @@ void() worldspawn =
 	precache_sound ("weapons/za_warudo.wav");
 	precache_sound ("weapons/stake_hit.wav");
 	precache_sound ("weapons/stake_hit_meat.wav");
+	precache_sound ("weapons/stake_hit_meat2.wav");
 	precache_sound ("weapons/stake_hit_world.wav");
 	precache_sound ("weapons/stake_swoosh.wav");
 

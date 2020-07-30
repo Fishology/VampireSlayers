@@ -159,6 +159,8 @@ void(vector src, vector endpos) BulletTraceline;
 // called by worldspawn
 void() W_Precache =
 {
+	precache_sound ("weapons/stake_hit_world.wav");
+	precache_sound ("weapons/stake_hit_meat2.wav");
 	precache_sound ("weapons/r_exp3.wav");	// new rocket explosion
 	precache_sound ("weapons/rocket1i.wav");  // spike gun
 	precache_sound ("weapons/sgun1.wav");
@@ -386,9 +388,12 @@ void() W_FireAxe =
 			}
 		}
 	}
+
+	
+
 	else
 	{	// hit wall
-		sound (self, #CHAN_WEAPON, "player/stake_hit_world.wav", 1, #ATTN_NORM);
+		sound (self, #CHAN_WEAPON, "weapons/stake_hit_world.wav", 1, #ATTN_NORM);
 		WriteByte (#MSG_BROADCAST, #SVC_TEMPENTITY);
 		WriteByte (#MSG_BROADCAST, #TE_GUNSHOT);
 	#ifdef QUAKE_WORLD
@@ -470,7 +475,7 @@ void() W_FireSpanner =
 			}
 			else
 			{
-				sound (self, #CHAN_WEAPON, "player/stake_hit_world.wav", 1, #ATTN_NORM);
+				sound (self, #CHAN_WEAPON, "weapons/stake_hit_world.wav", 1, #ATTN_NORM);
 				WriteByte (#MSG_BROADCAST, #SVC_TEMPENTITY);
 				WriteByte (#MSG_BROADCAST, #TE_GUNSHOT);
 			#ifdef QUAKE_WORLD
@@ -592,7 +597,7 @@ void() W_FireSpanner =
 	}
 	else // hit wall
 	{	
-		sound (self, #CHAN_WEAPON, "player/stake_hit_world.wav", 1, #ATTN_NORM);
+		sound (self, #CHAN_WEAPON, "weapons/stake_hit_world.wav", 1, #ATTN_NORM);
 		WriteByte (#MSG_BROADCAST, #SVC_TEMPENTITY);
 		WriteByte (#MSG_BROADCAST, #TE_GUNSHOT);
 	#ifdef QUAKE_WORLD
@@ -1066,7 +1071,7 @@ void(float inAuto) W_FireMedikit =
 	{	
 		if (inAuto) return; //Don't click for automedic
 		// hit wall
-		sound (self, #CHAN_WEAPON, "player/stake_hit_world.wav", 1, #ATTN_NORM);
+		sound (self, #CHAN_WEAPON, "weapons/stake_hit_world.wav", 1, #ATTN_NORM);
 		WriteByte (#MSG_BROADCAST, #SVC_TEMPENTITY);
 		WriteByte (#MSG_BROADCAST, #TE_GUNSHOT);
 	#ifdef QUAKE_WORLD
@@ -1165,7 +1170,7 @@ void() W_FireBioweapon =
 	}
 	else
 	{	// hit wall
-		sound (self, #CHAN_WEAPON, "player/stake_hit_world.wav", 1, #ATTN_NORM);
+		sound (self, #CHAN_WEAPON, "weapons/stake_hit_world.wav", 1, #ATTN_NORM);
 		WriteByte (#MSG_BROADCAST, #SVC_TEMPENTITY);
 		WriteByte (#MSG_BROADCAST, #TE_GUNSHOT);
 	#ifdef QUAKE_WORLD

@@ -29,6 +29,7 @@ Morning Star. Depending on latency, performance should be near exact.
 ===========================================================================
 */
 
+
 // prototypes for WEAPONS.QC functions
 float() crandom;
 
@@ -295,6 +296,8 @@ void () Anchor_Grapple =
 
 	//if (isBuilding(other)) //WK don't hook onto buildings?
 	//	return;
+
+	
 
 	// Don't stick the the sky.
 	if (pointcontents(self.origin) == #CONTENT_SKY)
