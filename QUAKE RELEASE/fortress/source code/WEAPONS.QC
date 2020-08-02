@@ -172,6 +172,8 @@ void() W_Precache =
 	precache_sound ("weapons/tink1.wav");	// spikes tink (used in c code)
 	precache_sound ("weapons/grenade.wav"); // grenade launcher
 	precache_sound ("weapons/bounce.wav");	// grenade bounce
+	precache_sound ("weapons/demon_double.wav");
+	precache_sound ("weapons/demon_double2.wav");
 	precache_sound ("weapons/shotgn2.wav"); // super shotgun
 	precache_sound ("wizard/wattack.wav");	  // sniper rifle
 	precache_sound ("items/r_item1.wav");	// Medikit
@@ -186,6 +188,9 @@ void() W_Precache =
 	precache_sound ("weapons/turrspot.wav");	// Sentry Gun Spot 
 	precache_sound ("weapons/turridle.wav");	// Sentry Gun Idle
 		precache_sound ("weapons/sniper.wav");	// sniper rifle
+		precache_sound ("weapons/hover_cape.wav");
+		precache_sound ("weapons/hover_cape2.wav");
+		precache_sound ("weapons/hover_cape3.wav");
 		precache_sound ("weapons/flmfire2.wav");	// flamethrower
 		precache_sound ("weapons/flmgrexp.wav");	// flamethrower
 	precache_sound ("misc/vapeur2.wav");	// flamethrower
@@ -322,8 +327,8 @@ void() W_FireAxe =
 		}
 		else
 		{
-			if (self.cutf_items & #CUTF_CLOSECOMBAT)
-				DamageCorpse(trace_ent,20,trace_ent.origin,self,#TRUE);    
+			if (self.cutf_items & #CUTF_CLOSECOMBAT & self.team_no == 2)
+				DamageCorpse(trace_ent,100,trace_ent.origin,self,#TRUE);    
 			else
 				DamageCorpse(trace_ent,10,trace_ent.origin,self,#TRUE);
 		}
@@ -1664,7 +1669,7 @@ void() W_FireSuperShotgun =
 		return;
 	}
 		
-	sound (self ,#CHAN_WEAPON, "weapons/shotgn2.wav", 1, #ATTN_NORM);	
+	sound (self ,#CHAN_WEAPON, "weapons/demon_double2.wav", 1, #ATTN_NORM);	
 
 	if (self.classname == "player")
 		KickPlayer(-4, self);
@@ -4413,7 +4418,7 @@ void() W_PrintWeaponMessage =
 		sprint(self, #PRINT_MEDIUM, "\n");
 	}
 	else if (self.current_weapon == #WEAP_LIGHTNING)
-			sprint(self, #PRINT_MEDIUM, "Lightning Gun selected\n");
+			sprint(self, #PRINT_MEDIUM, "Vampire Gun selected\n");
 	else if (self.current_weapon == #WEAP_SPANNER)
 			sprint(self, #PRINT_MEDIUM, "Spanner readied\n");
 
@@ -4459,7 +4464,7 @@ void() W_PrintWeaponMessage =
 	else if (self.current_weapon == #WEAP_SHOTGUN)
 		sprint(self, #PRINT_MEDIUM, "Shotgun selected\n");
 	else if (self.current_weapon == #WEAP_SUPER_SHOTGUN)
-		sprint(self, #PRINT_MEDIUM, "Super Shotgun selected\n");
+		sprint(self, #PRINT_MEDIUM, "Demon DoubleShot Selected\n");
 	else if (self.current_weapon == #WEAP_RAILGUN)
 		sprint(self, #PRINT_MEDIUM, "Railgun selected\n");
 };

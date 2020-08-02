@@ -28,7 +28,7 @@ void(float cost, float type) BuyCuTF2;
 
 // Menu Item Strings
 // PAGE 1 - Sniper Weapon
-#define STR_SNIPERRIFLE 	   "Sniper Rifle    "
+#define STR_SNIPERRIFLE 	   "Silver Shooter  "
 #define STR_SHINIGAMI		   "Shinigami Rifle "
 #define STR_OTR 			   "´OTR Bullets    "
 #define STR_CRIPPLER		   "´Crippling Shots"
@@ -66,14 +66,14 @@ void(float cost, float type) BuyCuTF2;
 // PAGE 3 - Shotgun Weapons
 #define STR_ASSAULTCANNON	   "Assault Cannon  "	
 #define STR_LIGHTASSAULT	   "Light Assault   "
-#define STR_SUPERSHOTGUN	   "Double Barrel   "
+#define STR_SUPERSHOTGUN	   "Demon DoubleShot"
 #define STR_SHOTGUN 		   "Single Barrel   "
 #define STR_LONG_BARREL 	   "´Long Barrel    "
 #define STR_EXPLOSIVE_SHOT	   "´Explosive Shots"
 
 #define COST_ASSAULTCANNON		3000   
 #define COST_LIGHTASSAULT		1800
-#define COST_SUPERSHOTGUN		 575
+#define COST_SUPERSHOTGUN		2000
 #define COST_SHOTGUN			  50
 #define COST_LONG_BARREL		 975
 #define COST_EXPLOSIVE_SHOT 	1925
@@ -88,7 +88,11 @@ void(float cost, float type) BuyCuTF2;
 #define STR_NAILGUN 			"Nail Gun        "
 
 #define COST_GRENADELAUNCHER	2200
+<<<<<<< Updated upstream
 #define COST_LIGHTNING			2200
+=======
+#define COST_LIGHTNING			4000
+>>>>>>> Stashed changes
 #define COST_LASERCANNON		1100
 #define COST_MAUSER 			2400
 #define COST_SNG				 600
@@ -98,7 +102,7 @@ void(float cost, float type) BuyCuTF2;
 //Page 5 - Tools
 #define STR_TRANQ			   "Tranquilizer    "
 #define STR_MEDIKIT 		   "Medikit         "
-#define STR_KNIFE			   "Knife           "
+#define STR_KNIFE			   "Dracula's Claws "
 #define STR_SCUBA			   "Scuba Gear      "
 #define STR_AIRF			   "Air-Fist        "
 #define STR_AIRFISTUPGRADE	   "´Airfist Upgrade"
@@ -106,7 +110,7 @@ void(float cost, float type) BuyCuTF2;
 
 #define COST_TRANQ			 	350
 #define COST_MEDIKIT			1550
-#define COST_KNIFE			 	650
+#define COST_KNIFE			 	1500
 #define COST_SCUBA				1000
 #define COST_AIRF				2500 //WK 2/26/7 Was 2000
 #define COST_AIRFISTUPGRADE 	1250 //WK 8/4/7 Was 2500 //WK 2/26/7 Was 1850
@@ -123,14 +127,14 @@ void(float cost, float type) BuyCuTF2;
 
 #define COST_SPEED1 			7200 //WK 6/1/7 9000
 #define COST_SPEED2 			4900 //WK 6/1/7 6000
-#define COST_SPEED3 			3250
+#define COST_SPEED3 			3000
 #define COST_SPEED4 			2500
 #define COST_SPEED5 			1250
 #define COST_SPEED6 			 500
 
 // PAGE 7 - Health/Armor
 #define STR_HP1 			   "50Ø75 Green     "
-#define STR_HP2 			   "50Ø90 Green     "
+#define STR_HP2 			   "Dio's Armor     "
 #define STR_HP3 			   "100Ø80 Yellow   "
 #define STR_HP4 			   "120Ø90 Yellow   "
 #define STR_HP5 			   "150Ø100 Yellow  "
@@ -138,7 +142,7 @@ void(float cost, float type) BuyCuTF2;
 #define STR_HP7 			   "300Ø100 Red     "
 
 #define COST_HP1				 125
-#define COST_HP2				 325 
+#define COST_HP2				 666 
 #define COST_HP3				 650
 #define COST_HP4				1100
 #define COST_HP5				1800
@@ -296,11 +300,11 @@ void(float cost, float type) BuyCuTF2;
   #define COST_PSION_EXTRA2 	1500
 
 // PAGE 16 - Proficiencies
-#define STR_STEALTH 		   "Stealth         "
+#define STR_STEALTH 		   "Abrasive Silence"
 #define STR_HIGHJUMP		   "Highjump        "
 #define STR_EXPBODY 		   "Exp. Body       "
 #define STR_DEMONLORE		   "Demon Lore      "
-#define STR_CLOSECOMBAT 	   "Close Combat    "
+#define STR_CLOSECOMBAT 	   "Hunter's Stake  "
 #define STR_CANNIBAL		   "Cannibal        "
 
 #define COST_STEALTH			400
@@ -313,14 +317,14 @@ void(float cost, float type) BuyCuTF2;
 // PAGE 17 - Optional Equipment
 #define STR_AUTOID		   "Auto-ID         "
 #define STR_RESPAWNGUARD	   "Respawn Guard   "
-#define STR_HOVERBOOTS		   "Hover Boots     "
+#define STR_HOVERBOOTS		   "Hover Cape      "
 #define STR_BOOTUPGRADE 	   "´Boot Upgrade   "
 #define STR_AMMOBACKPACK	   "Ammo Backpack   "
 #define STR_AMMOBANDOLIER	   "Ammo Bandolier  "
 
 #define COST_AUTOID 			  25
 #define COST_RESPAWNGUARD		  25
-#define COST_HOVERBOOTS 		 850
+#define COST_HOVERBOOTS 		 1500
 #define COST_BOOTUPGRADE		 350
 #define COST_AMMOBACKPACK		 300
 #define COST_AMMOBANDOLIER		 200
@@ -346,7 +350,7 @@ void(float cost, float type) BuyCuTF2;
 // Leg settings (Speeds)
 #define CUSTOM_SPEED1	430 //WK 6/1/7 410 // Cheetah (shaka original = 650)
 #define CUSTOM_SPEED2	380 //WK 6/1/7 370 // Cougar (shaka original = 420)
-#define CUSTOM_SPEED3	330 // White Rhino
+#define CUSTOM_SPEED3	350 // White Rhino
 #define CUSTOM_SPEED4	310 // Scrub Jay
 #define CUSTOM_SPEED5	290 // KGB Officer
 #define CUSTOM_SPEED6	270 // Black Mamba
@@ -455,8 +459,266 @@ void() Menu_SniperWeapon =
 		msg_custom = strcat(msg_custom,"Type '”ÂÙÈÓÊÔ Ë œÊÊ' to disable help\n");
 
 	centerprint(self,"úãù CısÙoÌi˙e ŸÔıÚÛÂÏÊ ãú\nãú Sniper Weapon Menu úã\n\n",l1,l2,l3,l4,temp,msg_custom);
-};													   
+};												
 
+void() Menu_VampireWeapon =
+{
+	local string temp;
+	temp = ftos(self.money);
+	
+	if (self.tfstate & #TFSTATE_NOTENOUGHMONEY)
+		temp = colstr(temp,#COLSTR_RED);
+	
+	MenuResetCount();
+	
+	local string msg_custom;
+	local string l1,l2,l3,l4, str;
+
+	l1 = ConstructMenuItemStr(1,#STR_LIGHTNING,#COST_LIGHTNING,self.weapons_carried,#WEAP_LIGHTNING);
+	str = ConstructMenuItemStr(2,#STR_SUPERSHOTGUN,#COST_SUPERSHOTGUN,self.weapons_carried,#WEAP_SUPER_SHOTGUN);
+	l1 = strcat(l1,str);
+
+	l2 = ConstructMenuSpeedStr(3,#STR_SPEED3,#COST_SPEED3);
+	str = ConstructMenuItemStr(4,#STR_HOVERBOOTS,#COST_HOVERBOOTS,self.tf_items,#NIT_HOVER_BOOTS);
+	l2 = strcat(l2,str);
+
+	l3 = ConstructMenuItemStr(5,#STR_STEALTH,#COST_STEALTH,self.cutf_items,#CUTF_STEALTH);
+	str = ConstructMenuItemStr(6,#STR_KNIFE,#COST_KNIFE,self.cutf_items,#CUTF_KNIFE);
+	l3 = strcat(l3,str);
+
+	//l4 = ConstructMenuHPStr(7,#STR_HP2,#COST_HP2);
+	l4 = strcat(l4,".. ƒÔÓÂ!   \n");
+
+	if (self.done_custom & #CUSTOM_SELLING)
+		msg_custom	= " dollars left\n\n*CURRENTLY SELLING FRAGS*\nTyping √’”‘œÕ again will waste your cash\n";
+	else
+		msg_custom =  " dollars left\n\nUse the √’”‘œÕ command to start over\nUse the ’–«“¡ƒ≈ command to sell frags\n";
+
+// WK 6/1/7 These say:
+//		msg_custom = strcat(msg_custom,"Type 'setinfo h on' to re-enable help\n");
+//		msg_custom = strcat(msg_custom,"Type 'setinfo h off' to disable help\n");
+
+	if (infokey(self,"h") == "off" || infokey(self,"h") == "0")
+		msg_custom = strcat(msg_custom,"Type '”ÂÙÈÓÊÔ Ë œÓ' to re-enable help\n");
+	else
+		msg_custom = strcat(msg_custom,"Type '”ÂÙÈÓÊÔ Ë œÊÊ' to disable help\n");
+
+	centerprint(self,"úãù CısÙoÌi˙e ŸÔıÚÛÂÏÊ ãú\nãú Sniper Weapon Menu úã\n\n",l1,l2,l3,l4,temp,msg_custom);
+};												
+
+						
+// ============================================================================================
+void(float inp) Menu_VampireWeapon_Input =
+{
+	if (inp <= 10 && inp >= 1)
+	{
+		if (inp == 1) {
+			BuyWeapon(#COST_LIGHTNING,#WEAP_LIGHTNING);
+			HelpString("The Vampire Gun. Use this to suck the life out of your foes! Currently heals 25% of damage dealt.");
+			UpdateWeaponItems();
+			Menu_VampireWeapon();
+		}
+		if (inp == 2)
+		{
+			BuyWeapon(#COST_SUPERSHOTGUN,#WEAP_SUPER_SHOTGUN);
+			UpdateWeaponItems();
+			Menu_VampireWeapon();
+			
+		}
+		if (inp == 3)
+		{
+			if (self.money >= #COST_SPEED3) {
+				self.money = self.money - #COST_SPEED3;
+				self.custom_speed = #CUSTOM_SPEED3;
+				PrintMoney();
+				Menu_VampireWeapon();
+			}
+			else
+				PrintNotEnoughMoney(#COST_SPEED3);
+		}
+		if (inp == 4)
+		{
+			BuyItem(#COST_HOVERBOOTS,#NIT_HOVER_BOOTS);
+			HelpString("Hover over your enemies with this fashionable cape!.");
+			Menu_VampireWeapon();
+		}
+		if (inp == 5)
+		{
+			BuyCuTF(#COST_STEALTH,#CUTF_STEALTH);
+			HelpString("With this proficiency, you don't make any noise while falling, jumping, walking, or swimming.");
+			Menu_VampireWeapon();
+		}
+		if (inp == 6)
+		{
+			if (self.cutf_items & #CUTF_KNIFE) //Already have it
+			{
+				//Clean up knife-less warlocks (sync this with Custom.qc)
+				if (self.job & #JOB_WARLOCK) { // OfN Fix getting extra money with demon lore
+					sprint(self, #PRINT_HIGH, "You will need this knife being a warlock!\n");
+					CuTFMenuSound(#MENUSOUND_WRONG);
+					self.impulse=0;
+					return;
+				}
+				PrintRefund(#COST_KNIFE);
+				self.cutf_items = self.cutf_items - #CUTF_KNIFE;
+			}
+			else if (self.money >= #COST_KNIFE) {
+				self.money = self.money - #COST_KNIFE;
+				self.cutf_items = self.cutf_items | #CUTF_KNIFE;
+				PrintMoney();
+				HelpString("Dracula's Claws enable you to do more damage and the unlock backstabs.");
+			}
+			else
+				PrintNotEnoughMoney(#COST_KNIFE);
+			Menu_VampireWeapon();
+		}
+		
+		
+		/*
+		if (inp == 9)
+		{
+			CuTFMenuSound(#MENUSOUND_BROWSE);
+			self.current_menu = #MENU_ROCKET_WEAPON;
+			Menu_RocketWeapon();			
+		}
+		*/
+		if (inp == 10)
+		{
+			DropFromCustomClassGen();
+		}
+
+		self.impulse = 0;
+	}
+	// Otherwise, the impulse is passed on
+};
+
+void() Menu_VampireHunterWeapon =
+{
+	local string temp;
+	temp = ftos(self.money);
+	
+	if (self.tfstate & #TFSTATE_NOTENOUGHMONEY)
+		temp = colstr(temp,#COLSTR_RED);
+	
+	MenuResetCount();
+	
+	local string msg_custom;
+	local string l1,l2,l3,l4, str;
+
+	l1 = ConstructMenuItemStr(1,#STR_CLOSECOMBAT,#COST_CLOSECOMBAT,self.cutf_items,#CUTF_CLOSECOMBAT);
+	str = ConstructMenuItemStr(1,#STR_SNIPERRIFLE,#COST_SNIPERRIFLE,self.weapons_carried,#WEAP_AUTO_RIFLE);
+	l1 = strcat(l1,str);
+
+	l2 = ConstructMenuItemStr(3,#STR_OTR,#COST_OTR,self.cutf_items,#CUTF_OTR);
+	str = ConstructMenuItemStr(4,#STR_CRIPPLER,#COST_CRIPPLER,self.cutf2_items,#CUTF2_CRIPPLER);
+	l2 = strcat(l2,str);
+
+	l3 = ConstructMenuItemStr(5,#STR_OVERCHARGE,#COST_OVERCHARGE,self.cutf2_items,#CUTF2_OVERCHARGE);
+	str = ConstructMenuItemStr(6,#STR_CHARGER,#COST_CHARGER,self.cutf2_items,#CUTF2_CHARGER);
+	l3 = strcat(l3,str);
+
+	l4 = strcat(l4,".. ƒÔÓÂ!   \n");
+
+	if (self.done_custom & #CUSTOM_SELLING)
+		msg_custom	= " dollars left\n\n*CURRENTLY SELLING FRAGS*\nTyping √’”‘œÕ again will waste your cash\n";
+	else
+		msg_custom =  " dollars left\n\nUse the √’”‘œÕ command to start over\nUse the ’–«“¡ƒ≈ command to sell frags\n";
+
+// WK 6/1/7 These say:
+//		msg_custom = strcat(msg_custom,"Type 'setinfo h on' to re-enable help\n");
+//		msg_custom = strcat(msg_custom,"Type 'setinfo h off' to disable help\n");
+
+	if (infokey(self,"h") == "off" || infokey(self,"h") == "0")
+		msg_custom = strcat(msg_custom,"Type '”ÂÙÈÓÊÔ Ë œÓ' to re-enable help\n");
+	else
+		msg_custom = strcat(msg_custom,"Type '”ÂÙÈÓÊÔ Ë œÊÊ' to disable help\n");
+
+	centerprint(self,"úãù CısÙoÌi˙e ŸÔıÚÛÂÏÊ ãú\nãú Sniper Weapon Menu úã\n\n",l1,l2,l3,l4,temp,msg_custom);
+};												
+
+
+	
+// ============================================================================================
+void(float inp) Menu_VampireHunterWeapon_Input =
+{
+	if (inp <= 10 && inp >= 1)
+	{
+		if (inp == 1) {
+			BuyCuTF(#COST_CLOSECOMBAT,#CUTF_CLOSECOMBAT);
+			HelpString("Your melee attacks have 50% more reach, and you deal +50% more damage and take -20% less damage from melee attacks. Your wooden stake does a shit more damage.");
+			Menu_VampireHunterWeapon();
+		}
+		if (inp == 2)
+		{
+			if (self.weapons_carried & #WEAP_SNIPER_RIFLE) //Already have it
+			{
+				PrintRefund(#COST_SNIPERRIFLE);
+				self.weapons_carried = self.weapons_carried - #WEAP_SNIPER_RIFLE;
+				self.weapons_carried = self.weapons_carried - #WEAP_AUTO_RIFLE;
+				self.maxammo_shells = self.maxammo_shells - 75;
+				Menu_SniperWeapon();
+			}
+			else if (self.money >= #COST_SNIPERRIFLE) {
+				self.money = self.money - #COST_SNIPERRIFLE;
+				self.weapons_carried = self.weapons_carried | #WEAP_SNIPER_RIFLE | #WEAP_AUTO_RIFLE;
+				self.maxammo_shells = self.maxammo_shells + 75;
+				PrintMoney();
+				HelpString("The Silver Shooter.");
+				Menu_SniperWeapon();
+			}
+			else
+				PrintNotEnoughMoney(#COST_SNIPERRIFLE);
+		}
+		if (inp == 3)
+		{
+			BuyCuTF(#COST_OTR,#CUTF_OTR);
+			HelpString("OTR Bullets for shotguns and sniper rifles cost #OTR_AMMO_COST times the bullets in ammo, but inflict ´#OTR_DMG_FACTOR times normal damage and increase leg damage slowdown.");
+			Menu_VampireHunterWeapon();
+		}
+		if (inp == 4)
+		{
+			BuyCuTF2(#COST_CRIPPLER,#CUTF2_CRIPPLER);
+			HelpString("Cripplers increase leg shot damage by ´10% and increase leg damage slowdown. Additionally, they drastically improve caltrop grenades.");
+			Menu_VampireHunterWeapon();
+		}
+		if (inp == 5)
+		{
+			BuyCuTF2(#COST_OVERCHARGE,#CUTF2_OVERCHARGE);
+			HelpString("The Overcharge Augment allows you to charge a sniper rifle for ´#CUTF2_OVERCHARGE_FACTOR times longer, increasing your maximum damage by a proportional amount.");
+			Menu_VampireHunterWeapon();
+		}
+		if (inp == 6)
+		{
+			BuyCuTF2(#COST_CHARGER,#CUTF2_CHARGER);
+			HelpString("The Charger Augment allows you to fully charge to max damage a sniper rifle in #CUTF2_CHARGER_FACTOR the normal time.");
+			Menu_VampireHunterWeapon();
+		}
+		if (inp == 7)
+		{
+			BuyCuTF2(#COST_INITIALIZER,#CUTF2_INITIALIZER);
+			HelpString("The Initializer Augment increases initial sniper rifle damage by ´#CUTF2_INITIALIZER_FACTOR times, but doesn't change the fully charged damage at all.");
+			Menu_VampireHunterWeapon();
+		}
+		/*
+		if (inp == 9)
+		{
+			CuTFMenuSound(#MENUSOUND_BROWSE);
+			self.current_menu = #MENU_ROCKET_WEAPON;
+			Menu_RocketWeapon();			
+		}
+		*/
+		if (inp == 10)
+		{
+			DropFromCustomClassGen();
+		}
+
+		self.impulse = 0;
+	}
+	// Otherwise, the impulse is passed on
+};
+
+
+/*
 void(float inp) Menu_SniperWeapon_Input =
 {
 	if (inp <= 10 && inp >= 1)
@@ -556,7 +818,7 @@ void(float inp) Menu_SniperWeapon_Input =
 	}
 	// Otherwise, the impulse is passed on
 };
-
+*/
 // ====================================================================
 //	Prints Menu of Rocket Options Available
 // ====================================================================
@@ -668,7 +930,7 @@ void(float inp) Menu_RocketWeapon_Input =
 	if (inp == 8) {
 		CuTFMenuSound(#MENUSOUND_BROWSE);
 		self.current_menu = #MENU_SNIPER_WEAPON;
-		Menu_SniperWeapon();
+		
 		
 	}
 	if (inp == 9)
@@ -1532,7 +1794,7 @@ void(float inp) Menu_Health_Input =
 	local float current;
 	local float tosell, tobuy;
 	current = 0;
-
+// ================================================================================================================================================================
 	if (self.maxarmor == 50)
 	{
 	  if (self.health == 50) //WK 4/27/7 Made $0 armor 50/50 green, but handled in DropFrom...() in Custom.qc

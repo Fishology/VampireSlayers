@@ -198,7 +198,9 @@ void() DropToCustomClassGen =
 		self.done_custom = #CUSTOM_BUILDING; 
 	
 	  self.current_menu = #MENU_SNIPER_WEAPON;
-	  Menu_SniperWeapon();
+	  if (self.team_no == 1) Menu_VampireWeapon();
+	  else if (self.team_no == 2) Menu_VampireHunterWeapon();
+	  //Menu_SniperWeapon();
 };
 
 void(vector org) spawn_tfog;

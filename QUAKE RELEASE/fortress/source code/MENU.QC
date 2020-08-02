@@ -179,7 +179,11 @@ void(float in) PrintRefund;
 void(float in) PrintNotEnoughMoney;
 //WK 6/1/7 Total Revamp
 void() Menu_SniperWeapon;
-void(float inp) Menu_SniperWeapon_Input;
+//void(float inp) Menu_SniperWeapon_Input;
+void() Menu_VampireWeapon;
+void(float inp) Menu_VampireWeapon_Input;
+void() Menu_VampireHunterWeapon;
+void(float inp) Menu_VampireHunterWeapon_Input;
 void() Menu_RocketWeapon;
 void(float inp) Menu_RocketWeapon_Input;
 void() Menu_ShotgunWeapon;
@@ -511,7 +515,9 @@ void() Player_Menu =
 	//WK ------------------
 	else if (self.current_menu == #MENU_SNIPER_WEAPON)
 	{
-		Menu_SniperWeapon();
+		if (self.team_no == 1) Menu_VampireWeapon();
+		else if (self.team_no == 2) Menu_VampireHunterWeapon();
+		//Menu_SniperWeapon();
 	}
 	else if (self.current_menu == #MENU_ROCKET_WEAPON)
 	{
@@ -1060,8 +1066,10 @@ void(float inp) Menu_Input =
 		Menu_VoteMap_Input(inp);
 	else if (self.current_menu == #MENU_BUILDING_FRAG_UPGRADE)
 		Menu_BuildingFragUpgrade_Input(inp);
-	else if (self.current_menu == #MENU_SNIPER_WEAPON) //WK --
-		Menu_SniperWeapon_Input(inp);
+	else if (self.current_menu == #MENU_SNIPER_WEAPON){ //WK --
+		if (self.team_no == 1) Menu_VampireWeapon_Input(inp);
+	  	else if (self.team_no == 2) Menu_VampireHunterWeapon_Input(inp);
+	}
 	else if (self.current_menu == #MENU_ROCKET_WEAPON)
 		Menu_RocketWeapon_Input(inp);
 	else if (self.current_menu == #MENU_SHOTGUN_WEAPON)
